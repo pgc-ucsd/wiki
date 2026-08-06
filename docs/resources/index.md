@@ -13,6 +13,9 @@ campus infrastructure. **All entries below are placeholders.** Replace them.
     than a paragraph, give it its own page in this folder — the sidebar picks it
     up automatically.
 
+    Informal, non-official things (housing, transit, community) belong in
+    [Student Life](../student-life/index.md) instead.
+
 ## Funding
 
 | Source | Who it's for | Notes |
@@ -37,5 +40,6 @@ CAPS (Counseling and Psychological Services)
 
 ## Off-campus
 
-Housing, transit, and the practical logistics of living in San Diego. Link to
-cloud storage for any large PDF guides rather than committing them here.
+The practical logistics of living in San Diego are covered in
+[Student Life](../student-life/index.md). Link to cloud storage for any large
+PDF guides rather than committing them here.

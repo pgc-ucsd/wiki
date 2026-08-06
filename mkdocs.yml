@@ -36,6 +36,7 @@ theme:
 
 plugins:
   - search
+  - awesome-nav      # section order comes from docs/.nav.yml
 
 markdown_extensions:
   - admonition
@@ -51,6 +52,6 @@ markdown_extensions:
   - toc:
       permalink: true
 
-# No `nav:` block on purpose — MkDocs infers navigation from the docs/
-# tree, so adding a file is all it takes to add a page. Add an explicit
-# nav only if ordering needs control.
+# No `nav:` block on purpose. Top-level section order lives in docs/.nav.yml
+# (awesome-nav plugin); everything else is inferred from the docs/ tree, so
+# adding a page is just adding a file — no config edit required.

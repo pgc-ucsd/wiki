@@ -3,7 +3,7 @@ search:
   boost: 2
 ---
 
-# About
+# About PGC
 
 ## What PGC is
 

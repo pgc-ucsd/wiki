@@ -1,21 +1,25 @@
 ---
 search:
-  boost: 2
+  boost: 3
 ---
 
-# Onboarding
+# First-Year Onboarding
 
 Everything a new Physics graduate student needs in their first few quarters.
+If you have just accepted an offer, this is the right place to start.
 
-!!! note "Start here"
-    If you have just accepted an offer, read [Your First Year](first-year.md)
-    first. It covers the things with deadlines attached.
+!!! note "Read this first"
+    [Quarter-by-Quarter Timeline](timeline.md) covers the things with deadlines
+    attached. Then skim [Coursework](../coursework/index.md) and
+    [Teaching](../teaching/index.md) — most first-years are doing both at once.
 
-## Pages in this section
+## Before you arrive
 
-| Page | Covers |
-| --- | --- |
-| [Your First Year](first-year.md) | Quarter-by-quarter milestones, coursework, TA duties, exams. |
+- [x] Accept the offer and complete the Graduate Division paperwork.
+- [ ] Set up your UCSD email and Active Directory account.
+- [ ] Complete required TA training if you are appointed as a TA.
+- [ ] Arrange housing — apply early, the queue is long. See
+      [Student Life](../student-life/index.md#housing).
 
 ## Quick answers
 
@@ -27,4 +31,11 @@ Where to ask questions
     community actually uses.
 
 Payroll and appointments
-:   Replace this with a pointer to the department's HR contact.
+:   Replace this with a pointer to the department's HR contact. Details about
+    the TA job itself are in [Teaching](../teaching/index.md).
+
+## Pages in this section
+
+| Page | Covers |
+| --- | --- |
+| [Quarter-by-Quarter Timeline](timeline.md) | Milestones and deadlines through the first year. |

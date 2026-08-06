@@ -19,9 +19,17 @@ stay useful for years, and to be corrected when they drift.
 
 | Section | What lives there |
 | --- | --- |
-| [Onboarding](onboarding/index.md) | Getting started as a new grad student — enrollment, TAing, first-year milestones. |
-| [Resources](resources/index.md) | Funding, health and wellness, campus services, and other things worth knowing exist. |
-| [About](about/index.md) | What PGC is, who runs it, and how to reach us. |
+| [Coursework](coursework/index.md) | Degree requirements, what each course is actually like, exams. |
+| [Research](research/index.md) | Finding a group, advancing to candidacy, conference travel, computing. |
+| [Teaching](teaching/index.md) | TA appointments, what the job involves, your rights under the contract. |
+| [Student Life](student-life/index.md) | Housing, getting around, community, cost of living. |
+| [First-Year Onboarding](onboarding/index.md) | Start here if you just accepted an offer. Deadlines and milestones. |
+| [Resources](resources/index.md) | Funding, health and wellness, campus services worth knowing exist. |
+| [About PGC](about/index.md) | What PGC is, who maintains this, and how to contribute. |
+
+Sections cross-link freely — TA pay points at Resources, the first-year
+timeline points at Coursework and Research. Follow whichever thread is useful;
+it isn't a strict hierarchy.
 
 ## What belongs here
 

@@ -64,25 +64,57 @@ passes locally it will pass there.
 
 ```
 docs/
+  .nav.yml            <- sidebar section order and labels
   index.md            <- site home page
-  onboarding/
+  coursework/
     index.md          <- section landing page
-    first-year.md
+  research/
+    index.md
+  teaching/
+    index.md
+  student-life/
+    index.md
+  onboarding/
+    index.md
+    timeline.md
   resources/
     index.md
   about/
     index.md
 ```
 
-- **Adding a page = adding a `.md` file.** There is no navigation list to
-  update; MkDocs builds the sidebar from the folder tree.
+- **Adding a page = adding a `.md` file.** Drop it in the right folder and it
+  appears in the sidebar, sorted alphabetically by filename. No config to edit.
 - **A folder's `index.md` is its landing page.** Every folder needs one.
 - **Link to files, not directories.** Write
-  `[Onboarding](onboarding/index.md)`, never `[Onboarding](onboarding/)`. The
-  second form builds but emits warnings and fails `--strict`.
-- Ordering within a section is alphabetical by filename. If you need specific
-  ordering, add an explicit `nav:` block to `mkdocs.yml` — but then you must
-  maintain it by hand forever, so avoid it unless you really need it.
+  `[Onboarding](../onboarding/index.md)`, never `[Onboarding](../onboarding/)`.
+  The second form builds but emits warnings and fails `--strict`.
+- **Cross-link between sections freely.** This is a wiki, not a strict
+  hierarchy — the Teaching page pointing at Resources is normal and good. Use
+  relative paths (`../resources/index.md`) and anchors
+  (`../resources/index.md#funding`). `--strict` catches links you break.
+
+### Adding or renaming a whole section
+
+Only this needs a config edit. `docs/.nav.yml` sets the order of the top-level
+sections and their sidebar labels:
+
+```yaml
+nav:
+  - index.md
+  - Coursework: coursework
+  - Research: research
+  ...
+```
+
+Add a new folder with an `index.md`, then add a `Label: folder-name` line in
+the position you want. Sections left out of `.nav.yml` get appended at the end.
+
+Labels come from this file, not from the page's `# Heading` — a folder named
+`student-life` would otherwise show up as "Student life".
+
+To control page order *within* a section, drop a `.nav.yml` into that folder
+listing its filenames in order.
 
 ### Formatting conventions
 
@@ -139,7 +171,8 @@ git commit -am "Update dependencies" && git push
 ```
 
 **A page does not appear in the sidebar.**
-It is missing the `.md` extension, or it is outside `docs/`.
+It is missing the `.md` extension, or it is outside `docs/`. If a whole
+*section* is missing or in the wrong position, check `docs/.nav.yml`.
 
 **Edit pencil goes to the wrong place.**
 `edit_uri` in `mkdocs.yml` assumes the default branch is `main`.

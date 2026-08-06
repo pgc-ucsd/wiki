@@ -1,0 +1,18 @@
+# Sidebar section order and labels. Without this file, MkDocs would sort the
+# sections alphabetically and name them after their folders ("Student life").
+#
+# Format is `Label: folder-name`. Only *sections* are listed here — the pages
+# inside each folder are picked up automatically, sorted alphabetically by
+# filename, so adding a page never requires editing this file.
+#
+# To control page order within one section, drop a .nav.yml into that folder.
+
+nav:
+  - index.md
+  - Coursework: coursework
+  - Research: research
+  - Teaching: teaching
+  - Student Life: student-life
+  - First-Year Onboarding: onboarding
+  - Resources: resources
+  - About PGC: about
