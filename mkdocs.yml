@@ -1,0 +1,56 @@
+site_name: PGC Wiki
+site_description: Shared reference material for the UCSD Physics graduate community.
+site_url: https://pgc-ucsd.github.io/wiki/
+
+repo_url: https://github.com/pgc-ucsd/wiki
+repo_name: pgc-ucsd/wiki
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  features:
+    - navigation.sections     # top-level folders render as sidebar sections
+    - navigation.indexes      # index.md becomes the section landing page
+    - navigation.top
+    - navigation.tracking
+    - search.suggest
+    - search.highlight
+    - content.action.edit     # pencil icon -> GitHub web editor
+    - content.code.copy
+    - toc.follow
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - toc:
+      permalink: true
+
+# No `nav:` block on purpose — MkDocs infers navigation from the docs/
+# tree, so adding a file is all it takes to add a page. Add an explicit
+# nav only if ordering needs control.
