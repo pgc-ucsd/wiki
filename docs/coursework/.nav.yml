@@ -1,0 +1,6 @@
+# Requirements first, reference lists after.
+nav:
+  - index.md
+  - phd-requirements.md
+  - advanced-courses.md
+  - deadlines.md
