@@ -1,0 +1,6 @@
+# Sidebar order for this section, rather than alphabetical.
+nav:
+  - index.md
+  - housing.md
+  - transportation.md
+  - community.md

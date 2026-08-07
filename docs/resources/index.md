@@ -18,7 +18,7 @@ Money, health, paperwork, and the campus offices behind them.
 | --- | --- |
 | [Department Directory](directory.md) | Emergency numbers, who to email about what, where rooms are. |
 | [Funding and Fees](funding.md) | Assistantships, what employment covers, tuition, residency, summer work, loans. |
-| [Pay and Payroll](payroll.md) | Direct deposit, I-9 documents, Ecotime timekeeping, SSN. |
+| [Payroll and Taxes](payroll.md) | Pay steps, direct deposit, I-9/W-2/1098-T documents, Ecotime timekeeping, SSN. |
 | [Health and Insurance](health.md) | UC SHIP, waivers, Student Health Services, CAPS. |
 | [External Fellowships](fellowships.md) | Outside funding, split by citizenship requirement. |
 | [Campus Services](campus-services.md) | The A–Z of campus offices. |
