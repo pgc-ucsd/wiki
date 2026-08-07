@@ -254,6 +254,14 @@ git commit -am "Update dependencies" && git push
 CI is doing a shallow clone. Restore `fetch-depth: 0` under the checkout step
 in `.github/workflows/ci.yml`.
 
+**I edited a page and nothing changed in the preview.**
+Check which file you edited. Everything you write lives in `docs/` as `.md`.
+The `site/` folder is generated output — `mkdocs serve` builds from `docs/`
+into a temporary directory and never reads `site/`, and `mkdocs build` erases
+and recreates the whole folder. Edits made to `site/**/*.html` cannot appear
+and will be silently destroyed on the next build. `site/` is gitignored for
+this reason; if your editor keeps opening files there, close them.
+
 **A page does not appear in the sidebar.**
 It is missing the `.md` extension, or it is outside `docs/`. If a whole
 *section* is missing or in the wrong position, check `docs/.nav.yml`.

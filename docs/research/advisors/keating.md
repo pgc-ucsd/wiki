@@ -10,9 +10,9 @@ Factual, low-controversy details. Leave a row blank rather than guessing.
 
 | | |
 | --- | --- |
-| Research area | Observational cosmology — CMB *(confirm)* |
-| Group size | *N grad students, N postdocs* |
-| Meeting cadence | *Weekly 1:1? Group meeting? How often in practice?* |
+| Research area | Observational cosmology |
+| Group size | 2 for Brian, 2 for Kam (joint cosmology group) |
+| Meeting cadence | Once per week for his students, twice per week for entire cosmology group, plus more for collaboration meetings. |
 | Funding | *TA or GSR, from which year, how stable historically* |
 | Travel | *Conference/observing travel expected? Funded?* |
 | Style | *Hands-on or hands-off; how that changes with seniority* |
