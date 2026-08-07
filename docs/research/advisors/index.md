@@ -84,6 +84,17 @@ Each advisor page opens with an at-a-glance table of factual, low-controversy
 details — group size, meeting cadence, funding pattern, advising style —
 followed by dated accounts in students' own words.
 
+Each account is a boxed quote whose heading carries the attribution and term:
+
+```markdown
+!!! quote "4th-year · Spring 2026"
+    The review text.
+```
+
+The box matters. It makes clear at a glance where the wiki's own voice stops
+and one student's experience begins — the two should never be mistakable for
+each other.
+
 ## Directory
 
 All 84 faculty are listed, whether or not anyone has reviewed them. A name

@@ -185,14 +185,21 @@ holding a permanent record of who said what about whom.
 
 ## In students' words
 
-> The review text, a paragraph or two, in the student's own words.
->
-> — 4th-year, submitted Spring 2026
+!!! quote "4th-year · Spring 2026"
+    The review text, a paragraph or two, in the student's own words.
 
-> A second account, which may disagree with the first.
->
-> — 2nd-year, submitted Fall 2025
+!!! quote "2nd-year · Fall 2025"
+    A second account, which may disagree with the first.
 ```
+
+Use `!!! quote`, not a plain paragraph or a bare `>` blockquote. It renders as
+a boxed callout with a quote icon, so a reader can never mistake one student's
+opinion for the wiki's own editorial voice. The title carries the attribution
+and the term.
+
+Once a page holds more than about six accounts, change `!!!` to `???` on the
+older ones — identical syntax, but they render collapsed, with the attribution
+still visible in the header.
 
 **Editorial judgment worth exercising:**
 
