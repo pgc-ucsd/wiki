@@ -71,8 +71,10 @@ These apply to submitters and to the maintainers who transcribe.
 - **A single review is one person's experience**, not a verdict. Weight
   accordingly.
 - **Check the date.** Group culture turns over with its members.
-- **Absence means nothing.** No page for an advisor means nobody has written
-  one, not that anything is wrong.
+- **Absence means nothing.** Most advisors have no reviews. That means nobody
+  has written one — not that anything is wrong. Reviews accumulate slowly and
+  unevenly, and the advisors students feel strongest about, in either
+  direction, get written up first.
 - **Nothing replaces talking to their current students.** Use this to work out
   who to approach, not to decide.
 
@@ -84,23 +86,26 @@ followed by dated accounts in students' own words.
 
 ## Directory
 
-Advisors with a review are linked. Plain names have no reviews yet.
+Every faculty member is listed here, whether or not anyone has reviewed them.
+A name links to their page once one exists; until then the entry is just a name.
 
 !!! note "Populate from the department site"
-    Fill this table in from the
-    [Physics department faculty listing](https://physics.ucsd.edu/), grouped by
-    the research areas used in
-    [Advanced Graduate Courses](../../coursework/advanced-courses.md). Names
-    alone are fine — a page gets created the first time a review comes in.
+    Fill each row in from the
+    [Physics department faculty listing](https://physics.ucsd.edu/people/faculty).
+    Areas below follow the department's own categories. Add names freely — a
+    page only gets created when a review actually arrives.
 
 | Research area | Advisors |
 | --- | --- |
-| Plasma | *to be filled in* |
-| Condensed Matter | *to be filled in* |
-| Particle Physics / High Energy | *to be filled in* |
+| Astrophysics & Cosmology | [Brian Keating](keating.md) · *add the rest* |
+| Atomic, Molecular & Optical Physics | *to be filled in* |
 | Biophysics | *to be filled in* |
-| Astrophysics | [Brian Keating](keating.md) |
-| Computational | *to be filled in* |
+| Condensed Matter Physics | *to be filled in* |
+| High Energy Physics | *to be filled in* |
+| Plasma Physics & Nonlinear Dynamics | *to be filled in* |
+| Physics Education | *to be filled in* |
+
+Faculty working across areas can appear in more than one row.
 
 ## Related
 
