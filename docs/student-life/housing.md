@@ -23,12 +23,12 @@ Generally speaking, UCSD guarantees on-campus housing for **two years**, at whic
 
 ## Off-campus housing
 
-A variety of rooms and apartments exist **within a commutable distance from campus**. UCSD provides [some resources](https://offcampushousing.ucsd.edu) to help find off-campus housing, but generally I've found the best resources for finding housing, either with house/roommates or for entire units, has either been word-of-mouth within the department or UCSD network, or to use Facebook Marketplace and/or housing pages.
+A variety of rooms and apartments exist **within a commutable distance from campus**. UCSD provides [some resources](https://offcampushousing.ucsd.edu) to help find off-campus housing, but generally I've found the best resources for finding housing, either with house/roommates or for entire units, has either been word-of-mouth within the department or UCSD network, or to use Facebook Marketplace and/or housing pages. (Matt)
 
 !!! warning "Warning about online forums like Facebook"
     These forums tend to be **overrun with scammers and bots**. Search at your own risk, exercise discretion, and **never under any circumstances send anyone money (application fees, deposit, etc.) before seeing the unit in-person**.
 
-If you're looking to rent an entire unit, you can search on places such as [Zillow](https://www.zillow.com) or [Apartments.com](https://www.apartments.com). A helpful bit of advice I've found for this, is to look for available units in your price range, then call the listers. Usually these are leasing agencies who may have more units available, or units that will soon become available and are not listed yet.
+If you're looking to rent an entire unit, you can search on places such as [Zillow](https://www.zillow.com) or [Apartments.com](https://www.apartments.com). A helpful bit of advice I've found for this, is to look for available units in your price range, then call the listers. Usually these are leasing agencies who may have more units available, or units that will soon become available and are not listed yet. (Matt)
 
 ### Off-campus communities
 
@@ -44,9 +44,9 @@ Some options for living off-campus are:
 
 ## General rent prices
 
-As mentioned earlier, rent prices are highly variable depending on your location. General advice says to pay no more than 30% of your income to housing. This equates to somewhere between $800 and $1,000 (this depends on, if you're TAing, how much experience you accrue, or if you are GSR, whether you advanced or not). This is impractical for housing prices in San Diego on a PhD student's budget, unless you share a room. I'd advise you just create a budget, and figure out what a "comfortable" rent range would be; if you spend less on certain things (like gas, eating out, etc.), a higher percentage of your income going to rent might be feasible.
+As mentioned earlier, rent prices are highly variable depending on your location. General advice says to pay no more than 30% of your income to housing. This equates to somewhere between $800 and $1,000 (this depends on, if you're TAing, how much experience you accrue, or if you are GSR, whether you advanced or not). This is impractical for housing prices in San Diego on a PhD student's budget, unless you share a room. I'd advise you just create a budget, and figure out what a "comfortable" rent range would be; if you spend less on certain things (like gas, eating out, etc.), a higher percentage of your income going to rent might be feasible. (Matt)
 
-In general though, this is what I have found to be the general rent prices for certain living configurations. This is per bedroom (so halved if you share a room), per month, median price extended up to ~15 miles from campus, per [Zumper](https://www.zumper.com/rent-research/san-diego-ca). Highly variable depending on quality of apartment compled, and expect it to be higher the closer to campus you are.
+In general though, this is what I have found to be the general rent prices for certain living configurations. This is per bedroom (so halved if you share a room), per month, median price extended up to ~15 miles from campus, per [Zumper](https://www.zumper.com/rent-research/san-diego-ca). Highly variable depending on quality of apartment complex, and expect it to be higher the closer to campus you are. (Matt)
 
 | Beds | Baths | Price/Month/Room |
 |---|---|---|

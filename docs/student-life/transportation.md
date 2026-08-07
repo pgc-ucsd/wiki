@@ -23,7 +23,7 @@ Parking is first come, first served, and certain lots fill up much earlier than 
 
 ### Free Parking
 
-UCSD 
+UCSD generally discourages commuting to campus by car, hence why their parking costs so much. Because of this, free parking is even harder to find than the paid on-campus options. However, there are a few 
 
 ## Biking and walking
 
