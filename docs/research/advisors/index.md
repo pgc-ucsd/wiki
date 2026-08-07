@@ -99,7 +99,7 @@ Advisors with a review are linked. Plain names have no reviews yet.
 | Condensed Matter | *to be filled in* |
 | Particle Physics / High Energy | *to be filled in* |
 | Biophysics | *to be filled in* |
-| Astrophysics | *to be filled in* |
+| Astrophysics | [Brian Keating](keating.md) |
 | Computational | *to be filled in* |
 
 ## Related
