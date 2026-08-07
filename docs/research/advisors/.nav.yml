@@ -1,0 +1,8 @@
+# Only the landing page appears in the sidebar. Individual advisor pages are
+# still built, linked from the directory table, and indexed by search — they
+# are just kept out of the nav, which would otherwise grow to dozens of
+# entries under one dropdown.
+#
+# mkdocs.yml has a matching `not_in_nav` entry so this does not trip --strict.
+nav:
+  - index.md
