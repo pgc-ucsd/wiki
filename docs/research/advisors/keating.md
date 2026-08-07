@@ -1,4 +1,4 @@
-# Brian Keating — Astrophysics / Cosmology
+# Brian Keating
 
 ## At a glance
 
@@ -14,8 +14,7 @@
 ## In students' words
 
 !!! quote "Matthew Chu · Summer 2026"
-    Brian has a particular advising style that may work very well for some, and
-    less so for others.
+    Brian has a particular advising style that may work very well for some, and less so for others. If you're looking for a lot of specific guidance, that is not typically how he operates, but the benefit of existing in a large collaboration such as POLARBEAR or Simons Observatory is that instructions for learning this research work can be picked up from the many other grad students, postdocs, or researchers. I generally like deciding my own projects and working on my own schedule, and Brian is okay with that level of freedom and agency.
 
 ## Related
 
