@@ -26,6 +26,10 @@
   --pgc-amber: #9a5b00;
   --pgc-blue:  #1565c0;
   --pgc-muted: #6b6b6b;
+  /* Turquoise matching the free-parking map. The map's own #90d9ed scores
+     1.6:1 on white — invisible as text — so light mode uses the same hue
+     darkened to 4.9:1. Dark mode uses the map colour itself. */
+  --pgc-turquoise: #187a95;
 }
 [data-md-color-scheme="slate"] {
   --pgc-red:   #ff8a80;
@@ -33,12 +37,14 @@
   --pgc-amber: #ffcc80;
   --pgc-blue:  #90caf9;
   --pgc-muted: #9e9e9e;
+  --pgc-turquoise: #90d9ed;
 }
 .md-typeset .red   { color: var(--pgc-red); }
 .md-typeset .green { color: var(--pgc-green); }
 .md-typeset .amber { color: var(--pgc-amber); }
 .md-typeset .blue  { color: var(--pgc-blue); }
 .md-typeset .muted { color: var(--pgc-muted); }
+.md-typeset .turquoise { color: var(--pgc-turquoise); }
 
 /* Hide the redundant "PGC Wiki" heading at the top of the left sidebar. The
    site name is already in the header bar directly above it.

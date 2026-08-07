@@ -23,7 +23,7 @@ Parking is first come, first served, and certain lots fill up much earlier than 
 
 ### Free Parking
 
-UCSD generally discourages commuting to campus by car, hence why their parking costs so much. Because of this, free parking is even harder to find than the paid on-campus options. However, there are a few options worth knowing. Below are the places that I (Matt) could verify. 
+UCSD generally discourages commuting to campus by car, hence why their parking costs so much. Because of this, free parking is even harder to find than the paid on-campus options. However, there are a few options worth knowing. Below are the places that I (Matt) could verify. <span class="red">Red</span> represents locations where street parking is not allowed at all, or only limited to 2 hours; <span class="yellow">any arbitrary text</span>
 
 <figure markdown>
   ![Map of free street parking near the UCSD campus](free_parking.png){ width="600" }
