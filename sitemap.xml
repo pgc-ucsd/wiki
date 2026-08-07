@@ -2,22 +2,102 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://pgc-ucsd.github.io/wiki/</loc>
-         <lastmod>2026-08-06</lastmod>
+         <lastmod>2026-08-07</lastmod>
     </url>
     <url>
          <loc>https://pgc-ucsd.github.io/wiki/about/</loc>
-         <lastmod>2026-08-06</lastmod>
+         <lastmod>2026-08-07</lastmod>
+    </url>
+    <url>
+         <loc>https://pgc-ucsd.github.io/wiki/coursework/</loc>
+         <lastmod>2026-08-07</lastmod>
+    </url>
+    <url>
+         <loc>https://pgc-ucsd.github.io/wiki/coursework/advanced-courses/</loc>
+         <lastmod>2026-08-07</lastmod>
+    </url>
+    <url>
+         <loc>https://pgc-ucsd.github.io/wiki/coursework/deadlines/</loc>
+         <lastmod>2026-08-07</lastmod>
+    </url>
+    <url>
+         <loc>https://pgc-ucsd.github.io/wiki/coursework/phd-requirements/</loc>
+         <lastmod>2026-08-07</lastmod>
     </url>
     <url>
          <loc>https://pgc-ucsd.github.io/wiki/onboarding/</loc>
-         <lastmod>2026-08-06</lastmod>
+         <lastmod>2026-08-07</lastmod>
     </url>
     <url>
-         <loc>https://pgc-ucsd.github.io/wiki/onboarding/first-year/</loc>
-         <lastmod>2026-08-06</lastmod>
+         <loc>https://pgc-ucsd.github.io/wiki/onboarding/enrollment/</loc>
+         <lastmod>2026-08-07</lastmod>
+    </url>
+    <url>
+         <loc>https://pgc-ucsd.github.io/wiki/onboarding/orientation/</loc>
+         <lastmod>2026-08-07</lastmod>
+    </url>
+    <url>
+         <loc>https://pgc-ucsd.github.io/wiki/onboarding/timeline/</loc>
+         <lastmod>2026-08-07</lastmod>
+    </url>
+    <url>
+         <loc>https://pgc-ucsd.github.io/wiki/research/</loc>
+         <lastmod>2026-08-07</lastmod>
+    </url>
+    <url>
+         <loc>https://pgc-ucsd.github.io/wiki/research/annual-evaluation/</loc>
+         <lastmod>2026-08-07</lastmod>
     </url>
     <url>
          <loc>https://pgc-ucsd.github.io/wiki/resources/</loc>
-         <lastmod>2026-08-06</lastmod>
+         <lastmod>2026-08-07</lastmod>
+    </url>
+    <url>
+         <loc>https://pgc-ucsd.github.io/wiki/resources/campus-services/</loc>
+         <lastmod>2026-08-07</lastmod>
+    </url>
+    <url>
+         <loc>https://pgc-ucsd.github.io/wiki/resources/directory/</loc>
+         <lastmod>2026-08-07</lastmod>
+    </url>
+    <url>
+         <loc>https://pgc-ucsd.github.io/wiki/resources/fellowships/</loc>
+         <lastmod>2026-08-07</lastmod>
+    </url>
+    <url>
+         <loc>https://pgc-ucsd.github.io/wiki/resources/funding/</loc>
+         <lastmod>2026-08-07</lastmod>
+    </url>
+    <url>
+         <loc>https://pgc-ucsd.github.io/wiki/resources/health/</loc>
+         <lastmod>2026-08-07</lastmod>
+    </url>
+    <url>
+         <loc>https://pgc-ucsd.github.io/wiki/resources/payroll/</loc>
+         <lastmod>2026-08-07</lastmod>
+    </url>
+    <url>
+         <loc>https://pgc-ucsd.github.io/wiki/student-life/</loc>
+         <lastmod>2026-08-07</lastmod>
+    </url>
+    <url>
+         <loc>https://pgc-ucsd.github.io/wiki/student-life/transportation/</loc>
+         <lastmod>2026-08-07</lastmod>
+    </url>
+    <url>
+         <loc>https://pgc-ucsd.github.io/wiki/teaching/</loc>
+         <lastmod>2026-08-07</lastmod>
+    </url>
+    <url>
+         <loc>https://pgc-ucsd.github.io/wiki/teaching/elce/</loc>
+         <lastmod>2026-08-07</lastmod>
+    </url>
+    <url>
+         <loc>https://pgc-ucsd.github.io/wiki/teaching/lab-ta/</loc>
+         <lastmod>2026-08-07</lastmod>
+    </url>
+    <url>
+         <loc>https://pgc-ucsd.github.io/wiki/teaching/lecture-ta/</loc>
+         <lastmod>2026-08-07</lastmod>
     </url>
 </urlset>
