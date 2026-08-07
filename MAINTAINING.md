@@ -125,6 +125,21 @@ The pages in `docs/` demonstrate all of these; copy from them.
 - Front matter `search: boost: 2` — raises a page in search results.
 - Tables, task lists, definition lists, footnotes all work.
 
+### "Last updated" dates
+
+Every page shows a last-updated date at the bottom. It is read from that file's
+git history automatically — **never type a date into a page by hand**, it will
+go stale and contradict the real one.
+
+The date reflects the last commit that touched that specific file, so editing
+one page does not restamp the others. Fixing a typo does bump it, which is
+usually what you want on a reference wiki: the date answers "has anyone looked
+at this recently?"
+
+This depends on CI cloning the full git history — see `fetch-depth: 0` in
+`.github/workflows/ci.yml`. If dates ever all show the same recent day, that
+setting was removed.
+
 ### Files and images
 
 - **Compress images before committing.** A 6 MB phone photo stays in the git
@@ -169,6 +184,10 @@ pip freeze > requirements.txt
 mkdocs build --strict          # test locally first
 git commit -am "Update dependencies" && git push
 ```
+
+**Every page suddenly shows the same "last updated" date.**
+CI is doing a shallow clone. Restore `fetch-depth: 0` under the checkout step
+in `.github/workflows/ci.yml`.
 
 **A page does not appear in the sidebar.**
 It is missing the `.md` extension, or it is outside `docs/`. If a whole

@@ -1,0 +1,15 @@
+/* Site-specific style overrides.
+   Loaded via `extra_css:` in mkdocs.yml. */
+
+/* Enlarged callout. Material's default admonition font-size is .64rem; this
+   bumps it for callouts marked with the `discord` class, written as:
+
+       !!! tip discord "Join the Discord"
+
+   Any extra word after the admonition type becomes a CSS class, so this
+   affects only callouts opted in by name — every other admonition on the
+   site keeps the default size. */
+.md-typeset .admonition.discord,
+.md-typeset details.discord {
+  font-size: 0.85rem;
+}

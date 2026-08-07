@@ -1,0 +1,6 @@
+# Reading order for new students, rather than alphabetical.
+nav:
+  - index.md
+  - enrollment.md
+  - orientation.md
+  - timeline.md

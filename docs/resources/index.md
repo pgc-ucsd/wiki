@@ -5,41 +5,52 @@ search:
 
 # Resources
 
-Things that exist and are worth knowing about — funding, support services, and
-campus infrastructure. **All entries below are placeholders.** Replace them.
+Money, health, paperwork, and the campus offices behind them.
 
-!!! tip "Adding an entry"
-    Keep each entry to a sentence or two plus a link. If something needs more
-    than a paragraph, give it its own page in this folder — the sidebar picks it
-    up automatically.
+!!! tip "Looking for something informal?"
+    Housing, transit, and the practical business of living in San Diego are in
+    [Student Life](../student-life/index.md). This section covers the official
+    machinery.
 
-    Informal, non-official things (housing, transit, community) belong in
-    [Student Life](../student-life/index.md) instead.
+## Start here
 
-## Funding
+| Page | Covers |
+| --- | --- |
+| [Department Directory](directory.md) | Emergency numbers, who to email about what, where rooms are. |
+| [Funding and Fees](funding.md) | Assistantships, what employment covers, tuition, residency, summer work, loans. |
+| [Pay and Payroll](payroll.md) | Direct deposit, I-9 documents, Ecotime timekeeping, SSN. |
+| [Health and Insurance](health.md) | UC SHIP, waivers, Student Health Services, CAPS. |
+| [External Fellowships](fellowships.md) | Outside funding, split by citizenship requirement. |
+| [Campus Services](campus-services.md) | The A–Z of campus offices. |
 
-| Source | Who it's for | Notes |
-| --- | --- | --- |
-| Department fellowships | All grad students | Replace with the real application cycle and deadline. |
-| Travel grants | Students presenting at conferences | Replace with the amount, source, and who approves it. |
-| Emergency funds | Students in acute financial need | Replace with the actual office and process. |
+## The three things to do first
 
-## Health and wellness
+1. **Enroll in direct deposit** — all three streams, as early as possible.
+   Setup takes up to two weeks. [Pay and Payroll](payroll.md)
+2. **Bring your I-9 documents to orientation.** Originals, not copies.
+   [Employment Paperwork](payroll.md#employment-paperwork)
+3. **Decide about UC SHIP.** Enrollment is automatic; waiving has a deadline
+   and consequences. [Health and Insurance](health.md)
 
-Student Health Services
-:   Replace with hours, location, and how to make an appointment.
+!!! danger "Budget for the pay gap"
+    Your first fall paycheck arrives **November 1**, roughly six weeks after
+    you arrive in September. This catches nearly every first-year out.
 
-CAPS (Counseling and Psychological Services)
-:   Replace with intake process and crisis line.
+## Funding at a glance
 
-## Campus services
+| Source | Who it's for |
+| --- | --- |
+| Teaching Assistantship | Most first-years, usually a full academic year |
+| Graduate Student Researcher | Students affiliated with a research group, typically from year two |
+| Departmental tuition scholarships | Outstanding incoming non-residents; some continuing non-residents with a 3.5 core GPA |
+| Summer research assistantships | After the first year, subject to federal funding |
+| External fellowships | Anyone — see [External Fellowships](fellowships.md) |
+| Student loans | Students demonstrating financial need |
 
-- **Libraries** — replace with borrowing privileges, study space, ILL.
-- **Computing** — replace with cluster access, software licenses, VPN.
-- **International students** — replace with the ISPO contact and visa basics.
+**The 25% rule:** TAs, graders, and GSRs at 25% time or more get tuition, fees,
+and health insurance covered for that quarter.
 
-## Off-campus
+## Related
 
-The practical logistics of living in San Diego are covered in
-[Student Life](../student-life/index.md). Link to cloud storage for any large
-PDF guides rather than committing them here.
+- [Teaching](../teaching/index.md) — the appointment most first-years hold.
+- [Enrollment](../onboarding/enrollment.md) — enroll first, then fees process.

@@ -1,0 +1,9 @@
+# Most-needed first, rather than alphabetical.
+nav:
+  - index.md
+  - directory.md
+  - funding.md
+  - payroll.md
+  - health.md
+  - fellowships.md
+  - campus-services.md

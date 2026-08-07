@@ -3,17 +3,14 @@ search:
   boost: 3
 ---
 
-# PGC Wiki
+# Physics Graduate Council Wiki
 
 Shared reference material for the Physics graduate community at UC San Diego.
 This is a **reference repository**, not a news feed — pages here are meant to
 stay useful for years, and to be corrected when they drift.
 
-!!! note "Anyone can fix a page"
-    See something wrong or out of date? Click the pencil icon at the top right
-    of any page. It opens GitHub's web editor — no software to
-    install. See [MAINTAINING.md](https://github.com/pgc-ucsd/wiki/blob/main/MAINTAINING.md)
-    for the full workflow.
+!!! tip discord "Join the Discord"
+    **[discord.gg/xEk9rsX7n2](https://discord.gg/xEk9rsX7n2)**
 
 ## Sections
 
@@ -40,3 +37,9 @@ unwritten norms of the department.
 What does **not** belong here: member contact lists, financial records, or
 anything else you would not want publicly readable. This repository is public —
 see [About](about/index.md#privacy) for why.
+
+!!! note "Anyone can fix a page"
+    See something wrong or out of date? Click the pencil icon at the top right
+    of any page. It opens GitHub's web editor — no software to
+    install. See [MAINTAINING.md](https://github.com/pgc-ucsd/wiki/blob/main/MAINTAINING.md)
+    for the full workflow.

@@ -13,6 +13,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          # Full history, not the default shallow clone. The
+          # git-revision-date-localized plugin reads each page's last-edit
+          # date from git; with a shallow clone every page would show the
+          # build date instead. Removing this silently breaks those stamps.
+          fetch-depth: 0
 
       - name: Configure Git credentials
         run: |

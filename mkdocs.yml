@@ -34,9 +34,20 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
 
+extra_css:
+  - stylesheets/extra.css
+
 plugins:
   - search
   - awesome-nav      # section order comes from docs/.nav.yml
+
+  # "Last updated" stamp at the bottom of each page, read from that file's git
+  # history — nothing to maintain by hand. Requires full git history in CI:
+  # see `fetch-depth: 0` in .github/workflows/ci.yml. Do not remove that.
+  - git-revision-date-localized:
+      type: date                    # e.g. "August 6, 2026"
+      enable_creation_date: false
+      fallback_to_build_date: true  # don't fail the build if history is missing
 
 markdown_extensions:
   - admonition

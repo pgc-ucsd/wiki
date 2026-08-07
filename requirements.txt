@@ -5,10 +5,11 @@
 # Material does not support, with no migration path. If you ever unpin these,
 # keep mkdocs below 2.0. See MAINTAINING.md section 6.
 #
-# Only three of these are direct dependencies:
-#   mkdocs==1.6.1              the site generator
-#   mkdocs-material==9.7.7     the theme
-#   mkdocs-awesome-nav==3.3.0  sidebar section order, driven by docs/.nav.yml
+# Only four of these are direct dependencies:
+#   mkdocs==1.6.1                                  the site generator
+#   mkdocs-material==9.7.7                         the theme
+#   mkdocs-awesome-nav==3.3.0                      sidebar order, via docs/.nav.yml
+#   mkdocs-git-revision-date-localized-plugin      "last updated" stamps
 # The rest are transitive, pinned for reproducible builds.
 
 annotated-types==0.8.0
@@ -20,6 +21,8 @@ charset-normalizer==3.4.9
 click==8.4.2
 colorama==0.4.6
 ghp-import==2.1.0
+gitdb==4.0.12
+GitPython==3.1.58
 idna==3.18
 Jinja2==3.1.6
 Markdown==3.10.3
@@ -28,6 +31,7 @@ mergedeep==1.3.4
 mkdocs==1.6.1
 mkdocs-awesome-nav==3.3.0
 mkdocs-get-deps==0.2.2
+mkdocs-git-revision-date-localized-plugin==1.5.3
 mkdocs-material==9.7.7
 mkdocs-material-extensions==1.3.1
 natsort==8.4.0
@@ -44,6 +48,7 @@ PyYAML==6.0.3
 pyyaml_env_tag==1.1
 requests==2.34.2
 six==1.17.0
+smmap==5.0.3
 typing-inspection==0.4.2
 typing_extensions==4.16.0
 urllib3==2.7.0
