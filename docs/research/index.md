@@ -27,7 +27,7 @@ The department front-loads the introductions:
 - **Tea time**, weekly during the academic year, is the informal version. See
   [Student Life](../student-life/index.md#community).
 
-**Start research in the summer after your first year.** That is the expected
+**Start research as soon as possible, preferably during or before the summer after your first year.** That is the expected
 point, and summer research assistantships are often available then, subject to
 federal funding. Arrange these directly with the professor running the project.
 

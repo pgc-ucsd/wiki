@@ -41,28 +41,28 @@ name on the commit, which is the thing this process exists to avoid.
 
 These apply to submitters and to the maintainers who transcribe.
 
-**Describe behavior, not character.**
+1. **Describe behavior, not character.**
 :   "Emails typically got a reply in about a week" is useful and checkable.
     "Doesn't care about students" is neither, and is the kind of statement that
     creates real exposure for whoever published it.
 
-**Only your own experience.**
+2. **Only your own experience.**
 :   No second-hand accounts, no "I've heard that." If it did not happen to you,
     it does not go in.
 
-**No allegations of misconduct.**
+3. **No allegations of misconduct.**
 :   This page cannot handle those and should not try. Harassment and
     discrimination go to [OPHD](../../resources/campus-services.md); they do
     not go on a wiki.
 
-**Nothing about anyone but the advisor.**
+4. **Nothing about anyone but the advisor.**
 :   Do not name or describe other students, postdocs, or staff.
 
-**Date everything.**
+5. **Date everything.**
 :   An advisor in 2020 and in 2026 may be very different to work for. A review
     without a date is worse than no review.
 
-**Multiple perspectives are the point.**
+6. **Multiple perspectives are the point.**
 :   Two students can have opposite experiences with the same person and both be
     telling the truth. Pages hold several accounts; readers weigh them.
 
@@ -80,35 +80,14 @@ These apply to submitters and to the maintainers who transcribe.
 
 ## Page format
 
-Each advisor page opens with an at-a-glance table of factual, low-controversy
-details — group size, meeting cadence, funding pattern, advising style —
-followed by dated accounts in students' own words.
+Each advisor page opens with an at-a-glance table of factual details — group size, meeting cadence, funding pattern, advising style — followed by dated accounts in students' own words.
 
-Each account is a boxed quote whose heading carries the attribution and term:
-
-```markdown
-!!! quote "4th-year · Spring 2026"
-    The review text.
-```
-
-The box matters. It makes clear at a glance where the wiki's own voice stops
-and one student's experience begins — the two should never be mistakable for
-each other.
+Following this is a list of personalized testimonials from students who have worked with this faculty advisor.
 
 ## Directory
 
 All 84 faculty are listed, whether or not anyone has reviewed them. A name
 links to their page once one exists; until then the entry is just a name.
-
-!!! note "Research areas need filling in"
-    Names and titles come from the department's own faculty listing. The
-    **Research area** column is deliberately blank — the department's area
-    pages are prose write-ups rather than rosters, so there is no reliable
-    published mapping to copy. Fill each row in as you go; it does not have to
-    happen all at once.
-
-    A few names arrive from that listing with odd spacing or capitalization.
-    Fix them as you notice them.
 
 Faculty working across areas can list more than one. Emeritus faculty are
 included for completeness but are not generally taking new students.
@@ -152,7 +131,7 @@ included for completeness but are not generally taking new students.
 | Elizabeth Jenkins | Professor | |
 | Barbara Jones | Professor Emeritus | |
 | Suckjoon Jun | Professor | |
-| [Brian Keating](keating.md) | Professor | Astrophysics & Cosmology |
+| [Brian Keating](directory/keating.md) | Professor | Astrophysics & Cosmology |
 | Dusan Keres | Professor | |
 | David Kleinfeld | Distinguished Professor | |
 | Elena Koslover | Assistant Professor | |

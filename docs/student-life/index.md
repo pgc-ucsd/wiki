@@ -14,29 +14,7 @@ Living in San Diego and being a person outside the department.
 
 ## Housing
 
-Grad and family housing is run through **HDH**. Dormitory accommodation is
-reserved for undergraduates, so graduate students are looking at campus
-apartments or the private market.
-
-A variety of rooms and apartments exist **within a ten-mile radius of campus**.
-Detailed information comes from the Affiliated Housing Office or HDH Grad and
-Family Housing.
-
-!!! warning "Apply early"
-    The campus housing queue is long. Get in it as soon as you accept your
-    offer — you can always decline later.
-
-### What to fill in here
-
-The department's handbook is thin on this, which makes it exactly the gap this
-wiki should close:
-
-- Which neighborhoods people actually live in, and rough commute times.
-- Realistic rent ranges — **with the date you checked them**. Numbers without a
-  date are worse than no numbers.
-- Whether to sign before arriving or find a sublet for a month and look in
-  person.
-- Which listing sites and groups students actually use.
+Grad and family housing is run through [**HDH**](https://hdhgradfamilyhousing.ucsd.edu/apply/index.html). Dormitory accommodation is reserved for undergraduates, so graduate students are looking at campus apartments or the private market. See [Housing](housing.md) for more info about applying to grad housing or living off-campus.
 
 ## Getting around
 

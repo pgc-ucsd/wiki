@@ -44,7 +44,7 @@ extra_css:
 # built, linked from the directory table, and indexed by search. This suppresses
 # the "not in nav" warning that would otherwise fail --strict.
 not_in_nav: |
-  research/advisors/*.md
+  research/advisors/**/*.md
   !research/advisors/index.md
 
 plugins:

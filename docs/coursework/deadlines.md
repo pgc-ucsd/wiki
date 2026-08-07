@@ -14,10 +14,12 @@ all three quarters** — which makes them worth memorizing once.
 | Deadline | What is due |
 | --- | --- |
 | **2nd Friday** | Half-time study requests · Leave of absence · In absentia requests · Applications to candidacy for the Master's degree (all via the **GEPA tool**) |
-| **4th Friday** | Add/drop/change via **EASy** — change a grading option, change units, or drop a course **without a W** |
-| **9th Friday** | Drop a course via **EASy** |
-| **10th Friday** | Add a course via **EASy** |
+| **4th Friday** | Add/drop/change via **TEA** — change a grading option, change units, or drop a course **without a W** |
+| **9th Friday** | Drop a course via **TEA** |
+| **10th Friday** | Add a course via **TEA** |
 | **11th Friday** (finals week) | Final paperwork for degree completion |
+
+_TEA is the new university-wide system used to request units for 298 and 299. This replaced EASy in 2026._
 
 !!! warning "Department approval is not the deadline"
     Fully completed forms must be **received by GEPA** by the deadline.

@@ -18,5 +18,5 @@
 
 ## Related
 
-- [Advisor Reviews](index.md) — ground rules and how to submit.
-- [Research](../index.md) — finding a group and the second-year deadline.
+- [Advisor Reviews](../index.md) — ground rules and how to submit.
+- [Research](../../index.md) — finding a group and the second-year deadline.

@@ -1,30 +1,29 @@
 # Transportation
 
-Getting to and around campus. Everything below goes through **UCSD
-Transportation Services**.
+Getting to and around campus. Everything below goes through **UCSD Transportation Services**.
 
 ## Campus shuttle — free
 
-UCSD students get **free, unlimited rides on the Campus Shuttle year-round**
-with their Campus ID card. No pass, no fare, no sign-up.
+UCSD students get **free, unlimited rides on the Campus Shuttle year-round** with their Campus ID card. No pass, no fare, no sign-up.
 
 ## MTS bus and trolley — Triton U-Pass
 
-The **Triton U-Pass** grants unlimited access to regional **MTS and NCTD** bus
-and trolley/light rail routes during the **fall, winter, and spring** academic
-quarters.
+The **Triton U-Pass** grants unlimited access to regional **MTS and NCTD** bus and trolley/light rail routes during the fall, winter, spring, and as of 2025 (thanks to the union) summer academic quarters.
 
 Note the gap: coverage is by academic quarter, so check what applies over
 summer if you are here year-round.
 
 ## Parking
 
-Parking permits are available for purchase online.
+### Paid parking
 
-!!! tip "Don't buy a permit reflexively"
-    If you will not be driving to campus and parking **daily**, the flexible
-    parking program with **ParkMobile** is cheaper — you pay per use instead of
-    buying a full permit. Work out your actual number of driving days first.
+Parking permits are available for purchase [online](https://transportation.ucsd.edu/commute/permits/index.html). Graduate students are eligable for a **B** parking pass, and this permits you to "park down", i.e. park in available undergraduate (S) parking. If you commute by car daily, the consecutive rate is lower than a per-day parking, at $133/month. Parking for a single day is $6.35 via the [ParkMobile](https://parkmobile.io/) app. On the app, use code 47300 to specify B parking. B parking permits you to park in those spaces 24/7.
+
+Parking is first come, first served, and certain lots fill up much earlier than others. You can find the general availability per day, per time [here](https://transportation.ucsd.edu/commute/permits/availability.html). The closest parking garage to Mayer Hall is the South Parking Structure, but the B parking spots fill up very fast, so if you plan to park here get there early.
+
+### Free Parking
+
+UCSD 
 
 ## Biking and walking
 

@@ -9,7 +9,7 @@ Shared reference material for the Physics graduate community at UC San Diego.
 This is a **reference repository**, not a news feed — pages here are meant to
 stay useful for years, and to be corrected when they drift.
 
-!!! tip discord "Join the Discord"
+!!! tip discord "Join the Discord!"
     **[discord.gg/xEk9rsX7n2](https://discord.gg/xEk9rsX7n2)**
 
 ## Sections
@@ -23,10 +23,6 @@ stay useful for years, and to be corrected when they drift.
 | [First-Year Onboarding](onboarding/index.md) | Start here if you just accepted an offer. Deadlines and milestones. |
 | [Resources](resources/index.md) | Funding, health and wellness, campus services worth knowing exist. |
 | [About PGC](about/index.md) | What PGC is, who maintains this, and how to contribute. |
-
-Sections cross-link freely — TA pay points at Resources, the first-year
-timeline points at Coursework and Research. Follow whichever thread is useful;
-it isn't a strict hierarchy.
 
 ## What belongs here
 

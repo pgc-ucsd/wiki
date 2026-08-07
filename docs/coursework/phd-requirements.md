@@ -17,10 +17,7 @@ physics**, covering:
 - Statistical mechanics
 - Mathematical methods
 
-It is not pass/fail in the usual sense — it is placement. Students found to
-have serious gaps are directed into appropriate upper-division undergraduate
-courses. Your graduate advisor meets with you once results are available, and
-that meeting shapes your first-year schedule.
+The diagnostic has no pass/fail score. Students found to have serious gaps are directed into appropriate upper-division undergraduate courses. Your graduate advisor meets with you once results are available, and that meeting shapes your first-year schedule. **The results of the exam are non-binding, and you are not required to follow the guidelines based on your score**. However, it is highly advised that you review undergraduate material briefly before taking the exam, especially for students who are not consecutively entering from their undergrad.
 
 ## Core courses and electives
 
@@ -81,17 +78,12 @@ quarter of their first year**. See [Teaching](../teaching/index.md).
 
 ## Qualifying exam and advancement to candidacy
 
+**There is no longer an academic qual exam based on material learned from your required coursework.** This requirement was removed in 2019, and has been replaced with the above passing-grade stipulation for the required and elective courses.
+
 To advance, you must have met the departmental requirements **and secured a
-faculty research supervisor**.
+faculty research advisor**. You will provide a list of faculty members to the department (Sharmila) of whom you want to be on your committee. Typically, your advisor is your committee chair. There are three others who will sit on your committee, one of which must be outside the department. You will be required to present an advancement talk on progress you have made in research up to that point. There are no questions on coursework during this talk, unless it's specifically relevant to your research.
 
-When you apply to advance, the Dean of Graduate Studies and Research appoints a
-**doctoral committee** that oversees the rest of your program. That committee
-conducts the **qualifying examination**, in which you must demonstrate the
-ability to engage in thesis research — usually by presenting a plan for your
-thesis project. The committee may ask about the project directly or indirectly,
-plus general physics it considers relevant.
-
-Passing advances you to candidacy and earns you the **C.Phil. degree**.
+Passing advances you to candidacy and qualifies you to receive a Master of Science degree (note that you must specifically request this, the department does not confer them automatically).
 
 Target: **advance by the end of your third year.**
 
