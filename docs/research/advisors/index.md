@@ -86,26 +86,108 @@ followed by dated accounts in students' own words.
 
 ## Directory
 
-Every faculty member is listed here, whether or not anyone has reviewed them.
-A name links to their page once one exists; until then the entry is just a name.
+All 84 faculty are listed, whether or not anyone has reviewed them. A name
+links to their page once one exists; until then the entry is just a name.
 
-!!! note "Populate from the department site"
-    Fill each row in from the
-    [Physics department faculty listing](https://physics.ucsd.edu/people/faculty).
-    Areas below follow the department's own categories. Add names freely — a
-    page only gets created when a review actually arrives.
+!!! note "Research areas need filling in"
+    Names and titles come from the department's own faculty listing. The
+    **Research area** column is deliberately blank — the department's area
+    pages are prose write-ups rather than rosters, so there is no reliable
+    published mapping to copy. Fill each row in as you go; it does not have to
+    happen all at once.
 
-| Research area | Advisors |
-| --- | --- |
-| Astrophysics & Cosmology | [Brian Keating](keating.md) · *add the rest* |
-| Atomic, Molecular & Optical Physics | *to be filled in* |
-| Biophysics | *to be filled in* |
-| Condensed Matter Physics | *to be filled in* |
-| High Energy Physics | *to be filled in* |
-| Plasma Physics & Nonlinear Dynamics | *to be filled in* |
-| Physics Education | *to be filled in* |
+    A few names arrive from that listing with odd spacing or capitalization.
+    Fix them as you notice them.
 
-Faculty working across areas can appear in more than one row.
+Faculty working across areas can list more than one. Emeritus faculty are
+included for completeness but are not generally taking new students.
+
+| Advisor | Title | Research area |
+| --- | --- | --- |
+| Monica Allen | Assistant Professor | |
+| Jessica Arlett | — | |
+| Kam Arnold | Associate Professor | |
+| Daniel Arovas | Professor | |
+| Richard Averitt | Professor | |
+| Gurleen Bal | — | |
+| Julio Barreiro Guerrero | Associate Professor | |
+| James Branson | Professor | |
+| Leonid Butov | Professor | |
+| Joseph Chen | Professor Emeritus | |
+| R Sekhar Chivukula | Distinguished Professor | |
+| Massimiliano Di Ventra | Professor | |
+| Patrick Diamond | Distinguished Professor | |
+| Charles Driscoll | Professor Emeritus | |
+| Javier Duarte | Associate Professor | |
+| Daniel Dubin | Professor | |
+| Olga Dudko | Professor | |
+| Zachary Fisk | Professor Emeritus | |
+| Raphael Flauger | Associate Professor | |
+| Michael Fogler | Professor | |
+| Alex Frano | Assistant Professor | |
+| Donald Fredkin | Professor Emeritus | |
+| George Fuller | Distinguished Professor | |
+| Nigel Goldenfeld | Chancellor's Distinguished Professor of Physics | |
+| John Goodkind | Professor Emeritus | |
+| Daniel Green | Associate Professor | |
+| Kim Griest | Professor Emeritus | |
+| Benjamin Grinstein | Distinguished Professor | |
+| Alexander Groisman | Professor | |
+| Tarun Grover | Assistant Professor | |
+| Jorge Hirsch | Professor | |
+| Michael Holst | Distinguished Professor | |
+| Terence Hwa | Distinguished Professor | |
+| Kenneth Intriligator | Distinguished Professor | |
+| Elizabeth Jenkins | Professor | |
+| Barbara Jones | Professor Emeritus | |
+| Suckjoon Jun | Professor | |
+| [Brian Keating](keating.md) | Professor | Astrophysics & Cosmology |
+| Dusan Keres | Professor | |
+| David Kleinfeld | Distinguished Professor | |
+| Elena Koslover | Assistant Professor | |
+| Julius Kuti | Distinguished Professor | |
+| Aobo Li | — | |
+| Tongyan Lin | Assistant Professor | |
+| Lee Lindblom | Research Scientist | |
+| Aneesh Manohar | Distinguished Professor | |
+| M Maple | Distinguished Professor | |
+| Carl Mc Ilwain | Research Professor | |
+| John Mcgreevy | Professor | |
+| Andrew Meyertholen | Associate Teaching Professor | |
+| Thomas Murphy | Professor | |
+| Xuong Nguyen-Huu | Professor Emeritus | |
+| Kaixuan Ni | Professor | |
+| Thomas O'neil | Professor Emeritus | |
+| Seungeun Oh | — | |
+| Melvin Okamura | Professor Emeritus | |
+| Jose Onuchic | Professor Emeritus | |
+| Daniel Parker | — | |
+| Laurence Peterson | Professor Emeritus | |
+| Tenio Popmintchev | Assistant Professor | |
+| Wouter Rappel | Distinguished Research Scientist | |
+| Marcelo Rozenberg | — | |
+| Ivan Schuller | Distinguished Professor | |
+| Mattia Serra | Assistant Professor | |
+| Lu Sham | Professor Emeritus | |
+| Vivek Sharma | Distinguished Professor | |
+| Tatyanna Sharpee | Adjunct Professor | |
+| Brian Shotwell | Assistant Teaching Professor | |
+| Oleg Shpyrko | Department Chair | |
+| Elizabeth Simmons | Distinguished Professor | |
+| Sunil Sinha | Professor Emeritus | |
+| Douglas Smith | Professor | |
+| Robert Swanson | Professor Emeritus | |
+| Tzer Han Tan | — | |
+| Philbert Tsai | Associate Teaching Professor | |
+| Massimo Vergassola | Adjunct Professor | |
+| David Wong | Professor Emeritus | |
+| Shelley Wright | Associate Professor | |
+| Congjun Wu | Professor Emeritus | |
+| Frank Wuerthwein | Professor | |
+| Avi Yagil | Distinguished Professor | |
+| Liang Yang | Associate Professor | |
+| Yi-Zhuang You | Assistant Professor | |
+| Hongbo Zhao | Assistant Professor | |
 
 ## Related
 
