@@ -13,3 +13,15 @@
 .md-typeset details.discord {
   font-size: 0.85rem;
 }
+
+/* Hide the redundant "PGC Wiki" heading at the top of the left sidebar. The
+   site name is already in the header bar directly above it.
+
+   Desktop only: on narrow screens the same element is the slide-out drawer's
+   title bar and contains its close control, so hiding it there would strand
+   users inside the menu. */
+@media screen and (min-width: 76.25em) {
+  .md-sidebar--primary .md-nav--primary > .md-nav__title {
+    display: none;
+  }
+}
