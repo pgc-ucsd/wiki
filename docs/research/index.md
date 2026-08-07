@@ -31,6 +31,12 @@ The department front-loads the introductions:
 point, and summer research assistantships are often available then, subject to
 federal funding. Arrange these directly with the professor running the project.
 
+!!! tip "What is it like to work with them?"
+    [Advisor Reviews](advisors/index.md) collects students' own accounts of
+    working with particular faculty — group size, meeting cadence, funding
+    stability, advising style. It is the information you cannot get from a
+    seminar. Read the ground rules there before submitting one yourself.
+
 ## Funding follows the advisor
 
 After the first year, students are encouraged to affiliate with a research

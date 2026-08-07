@@ -140,6 +140,71 @@ This depends on CI cloning the full git history — see `fetch-depth: 0` in
 `.github/workflows/ci.yml`. If dates ever all show the same recent day, that
 setting was removed.
 
+### Advisor reviews — maintainer workflow
+
+`docs/research/advisors/` holds student accounts of working with particular
+faculty. **Students never edit these pages themselves.** They submit through a
+form; a maintainer transcribes. That indirection is the entire point: it keeps
+the submitter's GitHub account off the commit.
+
+**Set the form up correctly.** On a UCSD Workspace account, Google Forms
+defaults will record who submitted. Before sharing the link, turn **off**:
+
+- Collect email addresses
+- Restrict responses to users in your organization
+- Limit to 1 response
+
+Any of these forces sign-in and logs the submitter, which would leave you
+holding a permanent record of who said what about whom.
+
+**Transcribing a review.**
+
+1. Check it against the ground rules on `docs/research/advisors/index.md` —
+   behavior not character, first-hand only, no misconduct allegations, nobody
+   named but the advisor. Edit or reject; you are the publisher of what you
+   commit.
+2. If the advisor has no page yet, create `docs/research/advisors/<surname>.md`
+   from the template below. Pages are created **on demand** — do not scaffold
+   empty pages for every faculty member.
+3. Add the entry with the term it was submitted.
+4. Link the name in the directory table on the section index.
+
+**Page template:**
+
+```markdown
+# Firstname Lastname — Research Area
+
+## At a glance
+
+| | |
+| --- | --- |
+| Group size | ~N grad students, N postdocs |
+| Meeting cadence | Weekly 1:1; weekly group meeting |
+| Funding | GSR from year 2; historically stable |
+| Style | Hands-on early, independent later |
+
+## In students' words
+
+> The review text, a paragraph or two, in the student's own words.
+>
+> — 4th-year, submitted Spring 2026
+
+> A second account, which may disagree with the first.
+>
+> — 2nd-year, submitted Fall 2025
+```
+
+**Editorial judgment worth exercising:**
+
+- **Small groups deanonymize.** If an advisor has one or two students, consider
+  dropping the year-level from the attribution, or holding the review until a
+  second one arrives so neither stands alone. Tell the submitter what you did.
+- **Date every entry.** An undated review is worse than none.
+- **Removal requests.** Deleting the text from the page does *not* remove it
+  from git history. Honest answer: you can remove it from the live site
+  immediately, but scrubbing history means a rewrite and force-push. Do not
+  promise more than that.
+
 ### Files and images
 
 - **Compress images before committing.** A 6 MB phone photo stays in the git
