@@ -14,6 +14,32 @@
   font-size: 0.85rem;
 }
 
+/* Text colors.
+   Usage:  <span class="red">text</span>
+           *text*{ .red }
+   Defined as variables with a dark-mode override, because a colour picked to
+   read well on white is usually unreadable on the slate background, and the
+   site has a theme toggle. Never hardcode a colour inline. */
+:root {
+  --pgc-red:   #c62828;
+  --pgc-green: #2e7d32;
+  --pgc-amber: #9a5b00;
+  --pgc-blue:  #1565c0;
+  --pgc-muted: #6b6b6b;
+}
+[data-md-color-scheme="slate"] {
+  --pgc-red:   #ff8a80;
+  --pgc-green: #a5d6a7;
+  --pgc-amber: #ffcc80;
+  --pgc-blue:  #90caf9;
+  --pgc-muted: #9e9e9e;
+}
+.md-typeset .red   { color: var(--pgc-red); }
+.md-typeset .green { color: var(--pgc-green); }
+.md-typeset .amber { color: var(--pgc-amber); }
+.md-typeset .blue  { color: var(--pgc-blue); }
+.md-typeset .muted { color: var(--pgc-muted); }
+
 /* Hide the redundant "PGC Wiki" heading at the top of the left sidebar. The
    site name is already in the header bar directly above it.
 
