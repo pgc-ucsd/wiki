@@ -9,8 +9,8 @@
 
 nav:
   # The home page's heading spells out "Physics Graduate Council Wiki"; the
-  # sidebar keeps the short form so it doesn't wrap.
-  - PGC Wiki: index.md
+  # sidebar just says "Home".
+  - Home: index.md
   - Coursework: coursework
   - Research: research
   - Teaching: teaching

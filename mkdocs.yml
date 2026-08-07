@@ -9,7 +9,9 @@ edit_uri: edit/main/docs/
 theme:
   name: material
   features:
-    - navigation.sections     # top-level folders render as sidebar sections
+    # navigation.sections is deliberately NOT enabled: it renders every
+    # section permanently expanded. Without it, sections collapse and expand
+    # on click, which keeps the sidebar short.
     - navigation.indexes      # index.md becomes the section landing page
     - navigation.top
     - navigation.tracking
