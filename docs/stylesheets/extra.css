@@ -29,19 +29,25 @@
    exactly the width of its longest label on one line (width:1% plus nowrap is
    the shrink-to-content idiom, which needs the table itself to be full
    width), leaving everything else to the value column. Labels align to the
-   top so they sit level with the first line of a wrapped value. */
-.md-typeset table:has(thead:not(:has(th:not(:empty)))) {
+   top so they sit level with the first line of a wrapped value.
+
+   The selector matches two adjacent empty header cells. It deliberately does
+   NOT reuse the `thead:not(:has(...))` form above: :has() cannot be nested
+   inside another :has(), so `table:has(thead:not(:has(...)))` is invalid and
+   browsers drop the whole rule. Matching on the pair also leaves tables with
+   a partly filled header alone — e.g. the fees table on Funding, whose
+   header is ['', 'Amount'] and whose labels are far too long to nowrap. */
+.md-typeset table:has(thead th:empty + th:empty) {
   width: 100%;
 }
-.md-typeset table:has(thead:not(:has(th:not(:empty)))) td:first-child {
+.md-typeset table:has(thead th:empty + th:empty) td {
+  vertical-align: top;
+}
+.md-typeset table:has(thead th:empty + th:empty) td:first-child {
   width: 1%;
   white-space: nowrap;
   font-weight: 500;
-  vertical-align: top;
   padding-right: 1.2em;
-}
-.md-typeset table:has(thead:not(:has(th:not(:empty)))) td {
-  vertical-align: top;
 }
 
 /* ---- Advisor directory filter ------------------------------------------
