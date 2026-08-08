@@ -4,20 +4,17 @@ Getting to and around campus. Everything below goes through **UCSD Transportatio
 
 ## Campus shuttle — free
 
-UCSD students get **free, unlimited rides on the Campus Shuttle year-round** with their Campus ID card. No pass, no fare, no sign-up.
+UCSD students get **free, unlimited rides on the Campus Shuttle year-round** with their Campus ID card. No pass, no fare, no sign-up. Check the routes and schedules [here](https://transportation.ucsd.edu/campus/shuttles/index.html).
 
 ## MTS bus and trolley — Triton U-Pass
 
-The **Triton U-Pass** grants unlimited access to regional **MTS and NCTD** bus and trolley/light rail routes during the fall, winter, spring, and as of 2025 (thanks to the union) summer academic quarters.
-
-Note the gap: coverage is by academic quarter, so check what applies over
-summer if you are here year-round.
+The **Triton U-Pass** grants unlimited access to regional **MTS and NCTD** bus and trolley/light rail routes during the fall, winter, spring, and as of 2025 (thanks to the union) summer academic quarters. You should automatically be able to activate the U-Pass on the Pronto app if you are a registered student. Check [here](https://transportation.ucsd.edu/commute/transit/u-pass.html) for more details. **You must scan the QR on your Pronto app at a trolley stop or when entering a bus, even though the pass is free for students.** You can also track the ETA of buses and trolleys via the Pronto app.
 
 ## Parking
 
 ### Paid parking
 
-Parking permits are available for purchase [online](https://transportation.ucsd.edu/commute/permits/index.html). Graduate students are eligable for a **B** parking pass, and this permits you to "park down", i.e. park in available undergraduate (S) parking. If you commute by car daily, the consecutive rate is lower than a per-day parking, at $133/month. Parking for a single day is $6.35 via the [ParkMobile](https://parkmobile.io/) app. On the app, use code 47300 to specify B parking. B parking permits you to park in those spaces 24/7.
+Parking permits are available for purchase [online](https://transportation.ucsd.edu/commute/permits/index.html). Graduate students are eligable for a **B** parking pass, and this permits you to "park down", i.e. park in available undergraduate (S) parking. If you commute by car daily, the consecutive rate is lower than a per-day parking, at $133/month, vs. $6.35 via the [ParkMobile](https://parkmobile.io/) app. On the app, use code 47300 to specify B parking. B parking permits you to park in those spaces 24/7.
 
 Parking is first come, first served, and certain lots fill up much earlier than others. You can find the general availability per day, per time [here](https://transportation.ucsd.edu/commute/permits/availability.html). The closest parking garage to Mayer Hall is the South Parking Structure, but the B parking spots fill up very fast, so if you plan to park here get there early.
 
