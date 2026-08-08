@@ -88,7 +88,4 @@ around the day before instruction begins.
 
 ## Your rights
 
-TAs and GSRs at UCSD are represented by the **UAW**. Replace this section with
-the current local, what the contract guarantees on workload and hours, and who
-to contact about a workload dispute — this is the single most useful thing this
-page could gain, and no official handbook covers it.
+TAs and GSRs at UCSD are represented by the **UAW**. See [Union](../resources/union.md) for more details about the union, its goals, when issues warrant involving them, how to get involved, timeline for contract negotiations, and contact info.
