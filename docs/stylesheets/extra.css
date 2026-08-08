@@ -14,6 +14,17 @@
   font-size: 0.85rem;
 }
 
+/* Hide the empty header row on key/value tables.
+
+   Markdown requires a header row, so a two-column "label | value" table has
+   to start with `| | |`, which renders as a blank band above the content.
+   This hides any thead whose cells are all empty, leaving tables with real
+   headers untouched. Browsers without :has() simply show the blank row, as
+   before. */
+.md-typeset table thead:not(:has(th:not(:empty))) {
+  display: none;
+}
+
 /* ---- Advisor directory filter ------------------------------------------
    Styles for the controls injected by javascripts/advisor-filter.js. All
    colours come from Material's own variables so this follows the theme
