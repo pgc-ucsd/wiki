@@ -7,15 +7,21 @@ search:
 
 ## What PGC is
 
-Replace this with a short description of the Physics Graduate Community — what
-it does, who it serves, and how it relates to the department.
+The Physics Graduate Council (PGC) is a student organization that's meant to act as an intermediary between the students and the department. We work to provide support to the student body for a range of issues, from coursework to research to TAing.
 
-## Who maintains this wiki
+PGC also organizes social gatherings to build community amongst the grad students.
 
-| Role | Person | Contact |
+## PGC officers
+
+| Person | Role | Tenure |
 | --- | --- | --- |
-| Maintainer | Replace me | Replace me |
-| Maintainer | Replace me | Replace me |
+| Robin Glefke | Co-President | 2022-2024 |
+| Jayke Nguyen | Co-President | 2022-2023 |
+| Matthew Chu | President | 2024-2026 |
+| Jake McCool | Co-President | 2026-Present |
+| Luc Nguyen | Co-President | 2026-Present |
+
+This Wiki is currently being maintained by Matthew Chu.
 
 The wiki lives in the [pgc-ucsd](https://github.com/pgc-ucsd) GitHub
 organization, so ownership survives officer turnover. See

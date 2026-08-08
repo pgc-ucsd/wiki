@@ -54,16 +54,13 @@ Check [the website](https://studenthealth.ucsd.edu/) for hours, especially durin
 
 ## Counseling and Psychological Services
 
-**CAPS** provides mental health support to graduate students.
-
-Every route in starts the same way: **you must schedule a Brief Telephone
-Assessment (BTA)**. Where you go next depends on what that assessment finds.
+**CAPS** provides mental health support to graduate students. The process to get the help you need (counseling, medication, etc.) is complicated and not very well-explained, so here is a flowchart to understand the steps you need to take. Every route in starts the same way: **you must schedule a Brief Telephone Assessment (BTA)**. Where you go next depends on what that assessment finds.
 
 ```mermaid
 graph TD
-    Start[Student seeking mental health support] --> Access[1. Initiate access:<br>schedule Brief Telephone Assessment BTA]
-    Access --> Forms[2. Complete required forms<br>MyStudentChart]
-    Forms --> BTA_Appt{3. Brief Telephone Assessment BTA<br>counsellor assesses initial needs}
+    Start[Student seeking mental health support] --> Access[Initiate access:<br>schedule Brief Telephone Assessment BTA through MyChart]
+    Access --> Forms[Complete required forms<br>MyStudentChart]
+    Forms --> BTA_Appt{Brief Telephone Assessment BTA<br>counsellor assesses initial needs}
 
     BTA_Appt -- Needs CAPS<br>short-term counselling --> CAPS_Counselor[Assigned to CAPS<br>psychologist / social worker]
     CAPS_Counselor --> Intake[Initial intake appointment]
@@ -88,7 +85,17 @@ graph TD
     **Community referrals need a UC SHIP authorisation letter.** Get it before
     booking, or the visit may not be covered.
 
+Copays vary depending on where treatment was received.
 
+**Internal**: 
+
+- Services provided by SHS or CAPS directly, located on-campus &rarr; Copay = $0
+- UC-system providers, i.e. services under the UCSD Health umbrella (e.g. UCSD Outpatient Psychiatry) &rarr; Copay = $5
+
+**External**:
+
+- In-network private practice therapists, psychiatrists, or clinics in the area that are in-network with Anthem Blue Cross (provider for UC SHIP) &rarr; Copay = $10
+- Out-of-network providers &rarr; Not covered
 
 ## Related
 

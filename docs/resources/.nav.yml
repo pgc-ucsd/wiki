@@ -1,4 +1,5 @@
 # Most-needed first, rather than alphabetical.
+# Order matches the "Start here" table on index.md — keep the two in step.
 nav:
   - index.md
   - directory.md
@@ -6,4 +7,5 @@ nav:
   - payroll.md
   - health.md
   - fellowships.md
+  - union.md
   - campus-services.md

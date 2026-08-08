@@ -21,6 +21,7 @@ Money, health, paperwork, and the campus offices behind them.
 | [Payroll and Taxes](payroll.md) | Pay steps, direct deposit, I-9/W-2/1098-T documents, Ecotime timekeeping, SSN. |
 | [Health and Insurance](health.md) | UC SHIP, waivers, Student Health Services, CAPS. |
 | [External Fellowships](fellowships.md) | Outside funding, split by citizenship requirement. |
+| [Union](union.md) | Information about UAW. |
 | [Campus Services](campus-services.md) | The A–Z of campus offices. |
 
 ## The three things to do first
