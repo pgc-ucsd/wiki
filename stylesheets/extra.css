@@ -14,6 +14,169 @@
   font-size: 0.85rem;
 }
 
+/* Hide the empty header row on key/value tables.
+
+   Markdown requires a header row, so a two-column "label | value" table has
+   to start with `| | |`, which renders as a blank band above the content.
+   This hides any thead whose cells are all empty, leaving tables with real
+   headers untouched. Browsers without :has() simply show the blank row, as
+   before. */
+.md-typeset table thead:not(:has(th:not(:empty))) {
+  display: none;
+}
+
+/* ...and give those tables a sensible column balance. The label column takes
+   exactly the width of its longest label on one line (width:1% plus nowrap is
+   the shrink-to-content idiom, which needs the table itself to be full
+   width), leaving everything else to the value column. Labels align to the
+   top so they sit level with the first line of a wrapped value.
+
+   The selector matches two adjacent empty header cells. It deliberately does
+   NOT reuse the `thead:not(:has(...))` form above: :has() cannot be nested
+   inside another :has(), so `table:has(thead:not(:has(...)))` is invalid and
+   browsers drop the whole rule. Matching on the pair also leaves tables with
+   a partly filled header alone — e.g. the fees table on Funding, whose
+   header is ['', 'Amount'] and whose labels are far too long to nowrap. */
+.md-typeset table:has(thead th:empty + th:empty) {
+  width: 100%;
+}
+.md-typeset table:has(thead th:empty + th:empty) td {
+  vertical-align: top;
+}
+.md-typeset table:has(thead th:empty + th:empty) td:first-child {
+  width: 1%;
+  white-space: nowrap;
+  font-weight: 500;
+  padding-right: 1.2em;
+}
+
+/* ---- Advisor directory filter ------------------------------------------
+   Styles for the controls injected by javascripts/advisor-filter.js. All
+   colours come from Material's own variables so this follows the theme
+   toggle. */
+.adv-filter {
+  display: flex;
+  flex-direction: column;
+  gap: .5rem;
+  margin: 1em 0 .6em;
+}
+.adv-search {
+  width: 100%;
+  padding: .45rem .6rem;
+  font-size: .72rem;
+  font-family: inherit;
+  color: var(--md-default-fg-color);
+  background: var(--md-default-bg-color);
+  border: .05rem solid var(--md-default-fg-color--lighter);
+  border-radius: .2rem;
+}
+.adv-search:focus {
+  outline: none;
+  border-color: var(--md-accent-fg-color);
+}
+.adv-group {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: .3rem;
+}
+.adv-group__label {
+  font-size: .62rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: .04em;
+  color: var(--md-default-fg-color--light);
+  min-width: 7.2em;
+}
+.adv-chip {
+  font: inherit;
+  font-size: .66rem;
+  line-height: 1.4;
+  padding: .16rem .5rem;
+  cursor: pointer;
+  color: var(--md-default-fg-color--light);
+  background: var(--md-default-fg-color--lightest);
+  border: .05rem solid transparent;
+  border-radius: 1rem;
+  transition: background .15s, color .15s;
+}
+.adv-chip:hover { border-color: var(--md-accent-fg-color); }
+.adv-chip[aria-pressed="true"] {
+  color: var(--md-primary-bg-color);
+  background: var(--md-primary-fg-color);
+}
+.adv-meta {
+  display: flex;
+  align-items: center;
+  gap: .6rem;
+  margin: 0 0 .4rem;
+}
+.adv-status {
+  margin: 0 !important;
+  font-size: .66rem;
+  color: var(--md-default-fg-color--light);
+}
+.adv-reset {
+  font: inherit;
+  font-size: .66rem;
+  padding: 0;
+  cursor: pointer;
+  color: var(--md-accent-fg-color);
+  background: none;
+  border: none;
+  text-decoration: underline;
+}
+/* Fixed-height scroll area with a pinned header, so an 80-row table does not
+   push the rest of the page off screen. */
+.adv-scroll {
+  max-height: 26rem;
+  overflow: auto;
+  border: .05rem solid var(--md-default-fg-color--lightest);
+  border-radius: .2rem;
+}
+.adv-scroll > table {
+  margin: 0 !important;
+  width: 100%;
+  box-shadow: none !important;
+}
+.adv-scroll thead th {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+
+/* Text colors.
+   Usage:  <span class="red">text</span>
+           *text*{ .red }
+   Defined as variables with a dark-mode override, because a colour picked to
+   read well on white is usually unreadable on the slate background, and the
+   site has a theme toggle. Never hardcode a colour inline. */
+:root {
+  --pgc-red:   #c62828;
+  --pgc-green: #2e7d32;
+  --pgc-amber: #9a5b00;
+  --pgc-blue:  #1565c0;
+  --pgc-muted: #6b6b6b;
+  /* Turquoise matching the free-parking map. The map's own #90d9ed scores
+     1.6:1 on white — invisible as text — so light mode uses the same hue
+     darkened to 4.9:1. Dark mode uses the map colour itself. */
+  --pgc-turquoise: #187a95;
+}
+[data-md-color-scheme="slate"] {
+  --pgc-red:   #ff8a80;
+  --pgc-green: #a5d6a7;
+  --pgc-amber: #ffcc80;
+  --pgc-blue:  #90caf9;
+  --pgc-muted: #9e9e9e;
+  --pgc-turquoise: #90d9ed;
+}
+.md-typeset .red   { color: var(--pgc-red); }
+.md-typeset .green { color: var(--pgc-green); }
+.md-typeset .amber { color: var(--pgc-amber); }
+.md-typeset .blue  { color: var(--pgc-blue); }
+.md-typeset .muted { color: var(--pgc-muted); }
+.md-typeset .turquoise { color: var(--pgc-turquoise); }
+
 /* Hide the redundant "PGC Wiki" heading at the top of the left sidebar. The
    site name is already in the header bar directly above it.
 

@@ -783,6 +783,10 @@
       
         
       
+        
+      
+        
+      
     
     
     
@@ -839,6 +843,34 @@
   
   
     <li class="md-nav__item">
+      <a href="../../student-life/housing/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Housing
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../student-life/transportation/" class="md-nav__link">
         
   
@@ -847,6 +879,34 @@
     
   
     Transportation
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../student-life/community/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Community
   
 
     
@@ -1053,6 +1113,8 @@
       
         
       
+        
+      
     
     
     
@@ -1172,7 +1234,7 @@
   <span class="md-ellipsis">
     
   
-    Pay and Payroll
+    Payroll and Taxes
   
 
     
@@ -1286,17 +1348,6 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#gaspwell" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        GASPWell
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
   <a href="#related" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -1331,6 +1382,34 @@
     
   
     External Fellowships
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../union/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Union
   
 
     
@@ -1503,17 +1582,6 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#gaspwell" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        GASPWell
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
   <a href="#related" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -1592,7 +1660,7 @@ health.</p>
 <tbody>
 <tr>
 <td><strong>Location</strong></td>
-<td>Library Walk — west of Price Center, south of Geisel Library</td>
+<td>Triton Health and Wellness Building (9520 Gilman Dr)</td>
 </tr>
 <tr>
 <td><strong>Hours</strong></td>
@@ -1613,18 +1681,50 @@ health.</p>
 </tbody>
 </table>
 <div class="admonition tip">
-<p class="admonition-title">Write \"secure:\" in the subject line</p>
+<p class="admonition-title">Write "secure:" in the subject line</p>
 <p>When emailing SHS, always begin the subject line with the word <strong>secure:</strong>
 to protect your personal information.</p>
 </div>
-<p>Hours change — check the SHS website before making a trip.</p>
+<p>Check <a href="https://studenthealth.ucsd.edu/">the website</a> for hours, especially during holidays.</p>
 <h2 id="counseling-and-psychological-services">Counseling and Psychological Services<a class="headerlink" href="#counseling-and-psychological-services" title="Permanent link">&para;</a></h2>
-<p><strong>CAPS</strong> provides mental health support to graduate students. Add the intake
-process and current wait times here if you know them — that is exactly the kind
-of thing an official page will not tell you but a student wiki can.</p>
-<h2 id="gaspwell">GASPWell<a class="headerlink" href="#gaspwell" title="Permanent link">&para;</a></h2>
-<p>Graduate student wellness programming, introduced during orientation Day 1.
-Replace this with what GASPWell actually runs and how to get involved.</p>
+<p><strong>CAPS</strong> provides mental health support to graduate students. The process to get the help you need (counseling, medication, etc.) is complicated and not very well-explained, so here is a flowchart to understand the steps you need to take. Every route in starts the same way: <strong>you must schedule a Brief Telephone Assessment (BTA)</strong>. Where you go next depends on what that assessment finds.</p>
+<pre class="mermaid"><code>graph TD
+    Start[Student seeking mental health support] --&gt; Access[Initiate access:&lt;br&gt;schedule Brief Telephone Assessment BTA through MyChart]
+    Access --&gt; Forms[Complete required forms&lt;br&gt;MyStudentChart]
+    Forms --&gt; BTA_Appt{Brief Telephone Assessment BTA&lt;br&gt;counsellor assesses initial needs}
+
+    BTA_Appt -- Needs CAPS&lt;br&gt;short-term counselling --&gt; CAPS_Counselor[Assigned to CAPS&lt;br&gt;psychologist / social worker]
+    CAPS_Counselor --&gt; Intake[Initial intake appointment]
+    Intake --&gt; Therapy[Short-term therapy / groups]
+
+    Therapy -. Therapist identifies&lt;br&gt;medication need .-&gt; SHS_PCP
+    Therapy -. Therapist refers&lt;br&gt;internally .-&gt; CAPS_Psychiatry
+
+    BTA_Appt -- Primary need is psychiatry&lt;br&gt;OR stable outside prescriptions --&gt; SHS_PCP[Primary care appointment&lt;br&gt;PCP at Student Health Services]
+    SHS_PCP -- Need beyond&lt;br&gt;PCP scope --&gt; CAPS_Psychiatry[CAPS psychiatry&lt;br&gt;referral-only; no stimulant starts]
+    SHS_PCP -- Appropriate for&lt;br&gt;PCP management --&gt; SHS_PCP_Care[PCP direct medication&lt;br&gt;management]
+
+    BTA_Appt -- Long-term or specialised care&lt;br&gt;beyond CAPS scope --&gt; Ext_Therapy[Community provider: long-term therapy&lt;br&gt;requires UC SHIP auth letter]
+    SHS_PCP -- ADHD stimulants OR&lt;br&gt;long-term psychiatric care --&gt; Ext_Psych[Community provider: psychiatry / ADHD meds&lt;br&gt;requires UC SHIP auth letter]</code></pre>
+<div class="admonition warning">
+<p class="admonition-title">Two things students get caught by</p>
+<p><strong>CAPS psychiatry is referral-only</strong> — you cannot book it directly, and it
+does not start stimulant prescriptions. ADHD medication and long-term
+psychiatric care are referred out to community providers.</p>
+<p><strong>Community referrals need a UC SHIP authorisation letter.</strong> Get it before
+booking, or the visit may not be covered.</p>
+</div>
+<p>Copays vary depending on where treatment was received.</p>
+<p><strong>Internal</strong>: </p>
+<ul>
+<li>Services provided by SHS or CAPS directly, located on-campus &rarr; Copay = $0</li>
+<li>UC-system providers, i.e. services under the UCSD Health umbrella (e.g. UCSD Outpatient Psychiatry) &rarr; Copay = $5</li>
+</ul>
+<p><strong>External</strong>:</p>
+<ul>
+<li>In-network private practice therapists, psychiatrists, or clinics in the area that are in-network with Anthem Blue Cross (provider for UC SHIP) &rarr; Copay = $10</li>
+<li>Out-of-network providers &rarr; Not covered</li>
+</ul>
 <h2 id="related">Related<a class="headerlink" href="#related" title="Permanent link">&para;</a></h2>
 <ul>
 <li><a href="../campus-services/">Campus Services</a> — the wider A–Z.</li>
@@ -1650,7 +1750,7 @@ Replace this with what GASPWell actually runs and how to get involved.</p>
     <span class="md-icon" title="Last update">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1zM12.5 7v5.2l4 2.4-1 1L11 13V7zM11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="August 7, 2026 17:28:57 UTC">August 7, 2026</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="August 8, 2026 02:36:43 UTC">August 8, 2026</span>
   </span>
 
     
@@ -1710,6 +1810,8 @@ Replace this with what GASPWell actually runs and how to get involved.</p>
     
     
       <script src="../../assets/javascripts/bundle.d7400e89.min.js"></script>
+      
+        <script src="../../javascripts/advisor-filter.js"></script>
       
     
   </body>
