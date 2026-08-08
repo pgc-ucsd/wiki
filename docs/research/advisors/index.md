@@ -29,7 +29,7 @@ otherwise get.
 
 ## How to submit
 
-1. Fill in the submission form — **link to be added by a maintainer**.
+1. Fill in the [submission form](https://forms.gle/siVgp8P9wSSqN4B27).
 2. A PGC maintainer reviews it against the ground rules below and transcribes
    it onto the advisor's page.
 3. Every entry is dated by the term it was submitted.
