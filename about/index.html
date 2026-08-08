@@ -51,7 +51,7 @@
       
     
     
-      <link rel="stylesheet" href="../stylesheets/extra.css?v=1">
+      <link rel="stylesheet" href="../stylesheets/extra.css?v=2">
     
     <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
@@ -1478,6 +1478,28 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#elections" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Elections
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#wiki-maintenance" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Wiki maintenance
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#privacy" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -1529,42 +1551,102 @@
 <p>The Physics Graduate Council (PGC) is a student organization that's meant to act as an intermediary between the students and the department. We work to provide support to the student body for a range of issues, from coursework to research to TAing.</p>
 <p>PGC also organizes social gatherings to build community amongst the grad students.</p>
 <h2 id="pgc-officers">PGC officers<a class="headerlink" href="#pgc-officers" title="Permanent link">&para;</a></h2>
+<p>One row per role. Someone holding several roles gets a row for each, with their
+name merged across them.</p>
+<!-- This is written as raw HTML, not a Markdown table, because Markdown tables
+     cannot merge cells. To give someone an extra role: add a <tr> with just
+     the Role and Tenure cells directly below their existing row, and raise the
+     rowspan on their name cell to match the number of rows. -->
+
 <table>
-<thead>
-<tr>
-<th>Person</th>
-<th>Role</th>
-<th>Tenure</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Robin Glefke</td>
-<td>Co-President</td>
-<td>2022-2024</td>
-</tr>
-<tr>
-<td>Jayke Nguyen</td>
-<td>Co-President</td>
-<td>2022-2023</td>
-</tr>
-<tr>
-<td>Matthew Chu</td>
-<td>President</td>
-<td>2024-2026</td>
-</tr>
-<tr>
-<td>Jake McCool</td>
-<td>Co-President</td>
-<td>2026-Present</td>
-</tr>
-<tr>
-<td>Luc Nguyen</td>
-<td>Co-President</td>
-<td>2026-Present</td>
-</tr>
-</tbody>
+  <thead>
+    <tr>
+      <th>Person</th>
+      <th>Role</th>
+      <th>Tenure</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="2">Robin Glefke</td>
+      <td>2021 Rep</td>
+      <td>2021–Present</td>
+    </tr>
+      <td>Co-President</td>
+      <td>2022–2024</td>
+    <tr>
+    </tr>
+    <tr>
+      <td>Jayke Nguyen</td>
+      <td>Co-President</td>
+      <td>2022–2023</td>
+    </tr>
+    <tr>
+      <td rowspan="2">Matthew Chu</td>
+      <td>2022 Rep</td>
+      <td>2022–Present</td>
+    </tr>
+    <tr>
+      <td>President</td>
+      <td>2024–2026</td>
+    </tr>
+    <tr>
+      <td>Russell Marroquin</td>
+      <td>2022 Rep</td>
+      <td>2022–Present</td>
+    </tr>
+    <tr>
+      <td rowspan="2">Apurva Goel</td>
+      <td>2022 Rep</td>
+      <td>2022–2026</td>
+    </tr>
+    <tr>
+      <td>Special Appointment</td>
+      <td>2026–Present</td>
+    </tr>
+    <tr>
+      <td>Wyatt Russell</td>
+      <td>2021 Rep</td>
+      <td>2024–Present</td>
+    </tr>
+    <tr>
+      <td rowspan="2">Ellison Schueller</td>
+      <td>2024 Rep</td>
+      <td>2024–2026</td>
+    </tr>
+    <tr>
+      <td>Co-President</td>
+      <td>2025–2026</td>
+    </tr>
+    <tr>
+      <td rowspan="2">Jake McCool</td>
+      <td>2025 Rep</td>
+      <td>2025–Present</td>
+    </tr>
+    <tr>
+      <td>Co-President</td>
+      <td>2026–Present</td>
+    </tr>
+    <tr>
+      <td rowspan="2">Luc Nguyen</td>
+      <td>2025 Rep</td>
+      <td>2025–Present</td>
+    </tr>
+    <tr>
+      <td>Co-President</td>
+      <td>2026–Present</td>
+    </tr>
+    <tr>
+      <td>Alex Migala</td>
+      <td>2024 Rep</td>
+      <td>2026–Present</td>
+    </tr>
+  </tbody>
 </table>
+
+<h2 id="elections">Elections<a class="headerlink" href="#elections" title="Permanent link">&para;</a></h2>
+<p>PGC holds nominations for the first-year representaties around October and elections around November. Please consider nominating and/or running for first-year representative! It allows the rest of PGC to have a direct line of contact to gauge potential issues facing the first-year cohort.</p>
+<h2 id="wiki-maintenance">Wiki maintenance<a class="headerlink" href="#wiki-maintenance" title="Permanent link">&para;</a></h2>
 <p>This Wiki is currently being maintained by Matthew Chu.</p>
 <p>The wiki lives in the <a href="https://github.com/pgc-ucsd">pgc-ucsd</a> GitHub
 organization, so ownership survives officer turnover. See
@@ -1607,7 +1689,7 @@ maintainer reviews and merges; the site rebuilds automatically.</p>
     <span class="md-icon" title="Last update">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1zM12.5 7v5.2l4 2.4-1 1L11 13V7zM11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="August 8, 2026 02:36:43 UTC">August 8, 2026</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="August 8, 2026 06:18:25 UTC">August 8, 2026</span>
   </span>
 
     

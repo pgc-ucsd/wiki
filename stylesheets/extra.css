@@ -14,6 +14,13 @@
   font-size: 0.85rem;
 }
 
+/* Centre the content of a merged cell across the rows it spans. Material sets
+   vertical-align:top on every cell, which leaves a rowspan'd name pinned to
+   the first of its rows instead of sitting between them. */
+.md-typeset table td[rowspan] {
+  vertical-align: middle;
+}
+
 /* Hide the empty header row on key/value tables.
 
    Markdown requires a header row, so a two-column "label | value" table has
