@@ -125,7 +125,7 @@ Parentheses in the title mark a joint appointment in another department.
 | George Fuller | Distinguished Professor | Astrophysics Theory |
 | Nigel Goldenfeld | Chancellor's Distinguished Professor of Physics | Condensed Matter / Biophysics Theory |
 | John Goodkind | Professor Emeritus | Condensed Matter Experiment |
-| Daniel Green | Associate Professor | High Energy / Astrophysics Theory |
+| [Daniel Green](directory/green.md) | Associate Professor | High Energy / Astrophysics Theory |
 | Kim Griest | Professor Emeritus | High Energy / Astrophysics Theory / Experiment |
 | Benjamin Grinstein | Distinguished Professor | High Energy Theory |
 | Alexander Groisman | Professor | Condensed Matter / Biophysics Experiment |
