@@ -31,9 +31,13 @@ name merged across them.
   </thead>
   <tbody>
     <tr>
-      <td>Robin Glefke</td>
+      <td rowspan="2">Robin Glefke</td>
+      <td>2021 Rep</td>
+      <td>2021–Present</td>
+    </tr>
       <td>Co-President</td>
       <td>2022–2024</td>
+    <tr>
     </tr>
     <tr>
       <td>Jayke Nguyen</td>
@@ -42,25 +46,72 @@ name merged across them.
     </tr>
     <tr>
       <td rowspan="2">Matthew Chu</td>
-      <td>President</td>
-      <td>2024–2026</td>
-    </tr>
-    <tr>
       <td>2022 Rep</td>
       <td>2022–Present</td>
     </tr>
     <tr>
-      <td>Jake McCool</td>
+      <td>President</td>
+      <td>2024–2026</td>
+    </tr>
+    <tr>
+      <td>Russell Marroquin</td>
+      <td>2022 Rep</td>
+      <td>2022–Present</td>
+    </tr>
+    <tr>
+      <td rowspan="2">Apurva Goel</td>
+      <td>2022 Rep</td>
+      <td>2022–2026</td>
+    </tr>
+    <tr>
+      <td>Special Appointment</td>
+      <td>2026–Present</td>
+    </tr>
+    <tr>
+      <td>Wyatt Russell</td>
+      <td>2021 Rep</td>
+      <td>2024–Present</td>
+    </tr>
+    <tr>
+      <td rowspan="2">Ellison Schueller</td>
+      <td>2024 Rep</td>
+      <td>2024–2026</td>
+    </tr>
+    <tr>
+      <td>Co-President</td>
+      <td>2025–2026</td>
+    </tr>
+    <tr>
+      <td rowspan="2">Jake McCool</td>
+      <td>2025 Rep</td>
+      <td>2025–Present</td>
+    </tr>
+    <tr>
       <td>Co-President</td>
       <td>2026–Present</td>
     </tr>
     <tr>
-      <td>Luc Nguyen</td>
+      <td rowspan="2">Luc Nguyen</td>
+      <td>2025 Rep</td>
+      <td>2025–Present</td>
+    </tr>
+    <tr>
       <td>Co-President</td>
+      <td>2026–Present</td>
+    </tr>
+    <tr>
+      <td>Alex Migala</td>
+      <td>2024 Rep</td>
       <td>2026–Present</td>
     </tr>
   </tbody>
 </table>
+
+## Elections
+
+PGC holds nominations for the first-year representaties around October and elections around November. Please consider nominating and/or running for first-year representative! It allows the rest of PGC to have a direct line of contact to gauge potential issues facing the first-year cohort.
+
+## Wiki maintenance
 
 This Wiki is currently being maintained by Matthew Chu.
 
