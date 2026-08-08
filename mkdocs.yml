@@ -36,13 +36,18 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
 
+# The ?v= suffixes are cache busting. Unlike the theme's own assets, these
+# filenames never change, so browsers keep serving an old copy after an edit —
+# the change appears to have done nothing. **Bump the number whenever you edit
+# either file.** MkDocs still copies the files normally; the suffix only lands
+# in the generated <link>/<script> tag.
 extra_css:
-  - stylesheets/extra.css
+  - stylesheets/extra.css?v=1
 
 extra_javascript:
   # Adds search + filters to the advisor directory table. The table stays
   # ordinary Markdown; this enhances it in the browser. See the file header.
-  - javascripts/advisor-filter.js
+  - javascripts/advisor-filter.js?v=1
 
 # Individual advisor pages are intentionally kept out of the sidebar — there
 # will eventually be dozens, and they would swamp one dropdown. They are still

@@ -102,7 +102,7 @@ Parentheses in the title mark a joint appointment in another department.
 | --- | --- | --- |
 | Monica Allen | Assistant Professor | Condensed Matter Experiment |
 | Jessica Arlett | Assistant Teaching Professor | Teaching Professor |
-| Kam Arnold | Associate Professor | Astrophysics Experiment |
+| Kam Arnold | Associate Professor (A&A) | Astrophysics Experiment |
 | Daniel Arovas | Professor | Condensed Matter Theory |
 | Richard Averitt | Professor | Condensed Matter Experiment |
 | Gurleen Bal | Assistant Teaching Professor | Teaching Professor |

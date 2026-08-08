@@ -261,6 +261,13 @@ git commit -am "Update dependencies" && git push
 CI is doing a shallow clone. Restore `fetch-depth: 0` under the checkout step
 in `.github/workflows/ci.yml`.
 
+**I changed the CSS or JavaScript and nothing happened.**
+Your browser cached it. `docs/stylesheets/extra.css` and
+`docs/javascripts/*.js` keep the same filename forever, unlike the theme's own
+assets, so a browser will happily serve last week's copy. Hard-refresh with
+**Ctrl+Shift+R**. To stop it recurring, **bump the `?v=` number** on that file
+in `mkdocs.yml` whenever you edit it — a new URL cannot be served from cache.
+
 **I edited a page and nothing changed in the preview.**
 Check which file you edited. Everything you write lives in `docs/` as `.md`.
 The `site/` folder is generated output — `mkdocs serve` builds from `docs/`
