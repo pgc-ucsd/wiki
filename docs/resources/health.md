@@ -40,28 +40,55 @@ health.
 
 | | |
 | --- | --- |
-| **Location** | Library Walk — west of Price Center, south of Geisel Library |
+| **Location** | Triton Health and Wellness Building (9520 Gilman Dr) |
 | **Hours** | Monday–Friday, 8:00 a.m. – 4:00 p.m. |
 | **Phone** | (858) 534-3300 |
 | **Fax** | (858) 534-7545 |
 | **Email** | studenthealth@ucsd.edu |
 
-!!! tip "Write \"secure:\" in the subject line"
+!!! tip "Write "secure:" in the subject line"
     When emailing SHS, always begin the subject line with the word **secure:**
     to protect your personal information.
 
-Hours change — check the SHS website before making a trip.
+Check [the website](https://studenthealth.ucsd.edu/) for hours, especially during holidays.
 
 ## Counseling and Psychological Services
 
-**CAPS** provides mental health support to graduate students. Add the intake
-process and current wait times here if you know them — that is exactly the kind
-of thing an official page will not tell you but a student wiki can.
+**CAPS** provides mental health support to graduate students.
 
-## GASPWell
+Every route in starts the same way: **you must schedule a Brief Telephone
+Assessment (BTA)**. Where you go next depends on what that assessment finds.
 
-Graduate student wellness programming, introduced during orientation Day 1.
-Replace this with what GASPWell actually runs and how to get involved.
+```mermaid
+graph TD
+    Start[Student seeking mental health support] --> Access[1. Initiate access:<br>schedule Brief Telephone Assessment BTA]
+    Access --> Forms[2. Complete required forms<br>MyStudentChart]
+    Forms --> BTA_Appt{3. Brief Telephone Assessment BTA<br>counsellor assesses initial needs}
+
+    BTA_Appt -- Needs CAPS<br>short-term counselling --> CAPS_Counselor[Assigned to CAPS<br>psychologist / social worker]
+    CAPS_Counselor --> Intake[Initial intake appointment]
+    Intake --> Therapy[Short-term therapy / groups]
+
+    Therapy -. Therapist identifies<br>medication need .-> SHS_PCP
+    Therapy -. Therapist refers<br>internally .-> CAPS_Psychiatry
+
+    BTA_Appt -- Primary need is psychiatry<br>OR stable outside prescriptions --> SHS_PCP[Primary care appointment<br>PCP at Student Health Services]
+    SHS_PCP -- Need beyond<br>PCP scope --> CAPS_Psychiatry[CAPS psychiatry<br>referral-only; no stimulant starts]
+    SHS_PCP -- Appropriate for<br>PCP management --> SHS_PCP_Care[PCP direct medication<br>management]
+
+    BTA_Appt -- Long-term or specialised care<br>beyond CAPS scope --> Ext_Therapy[Community provider: long-term therapy<br>requires UC SHIP auth letter]
+    SHS_PCP -- ADHD stimulants OR<br>long-term psychiatric care --> Ext_Psych[Community provider: psychiatry / ADHD meds<br>requires UC SHIP auth letter]
+```
+
+!!! warning "Two things students get caught by"
+    **CAPS psychiatry is referral-only** — you cannot book it directly, and it
+    does not start stimulant prescriptions. ADHD medication and long-term
+    psychiatric care are referred out to community providers.
+
+    **Community referrals need a UC SHIP authorisation letter.** Get it before
+    booking, or the visit may not be covered.
+
+
 
 ## Related
 

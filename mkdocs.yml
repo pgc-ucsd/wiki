@@ -67,7 +67,13 @@ markdown_extensions:
   - md_in_html
   - tables
   - pymdownx.details
-  - pymdownx.superfences
+  # The custom fence is what turns ```mermaid blocks into diagrams. Material
+  # loads and themes Mermaid itself once this is present.
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.tasklist:
       custom_checkbox: true
   - toc:

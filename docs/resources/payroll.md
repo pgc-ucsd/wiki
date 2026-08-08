@@ -1,41 +1,14 @@
 # Payroll and Taxes
 
-## Your pay
+## Payroll
 
-As a PhD student, you make your money either by teaching (paid for by the department) or doing research (paid for by your advisor). As you are nominally a student, you are paid at a fraction of the full rate (almost always 50%, though 25% is technically the minimum required to retain health insurance and other benefits). As of the most recent negotiations between UAW and the University of California in 2025, these are the wage steps for both TAs and GSRs before tax.
-
-### Teaching Assistant (TA)
-*Step placement is based on teaching experience. All incoming students start at Step 1. When you attain three quarters of experience you move to Step 2, after six Step 3.*
-
-| Step | Monthly Rate (100% FTE) | Monthly Take-Home (Standard 50% FTE) |
-| :--- | :--- | :--- |
-| **Step 1** | $8,200 | **$4,100** |
-| **Step 2** | $8,486 | **$4,243** |
-| **Step 3** | $8,740 | **$4,370** |
-
-### Graduate Student Researcher (GSR)
-*Step placement is determined pre/post-advancement. Physics sits at steps 3 and 4.*
-
-| Step | Monthly Rate (100% FTE) | Monthly Take-Home (Standard 50% FTE) |
-| :--- | :--- | :--- |
-| **Step 1** | $6,348 | **$3,174** |
-| **Step 2** | $6,714 | **$3,357** |
-| **Step 3** | $7,226 | **$3,613** |
-| **Step 4** | $7,776 | **$3,888** |
-| **Step 5** | $8,370 | **$4,185** |
-| **Step 6** | $8,960 | **$4,480** |
-
-Federal and state tax, as well as FICA deducts between 15-25% from this number. See the later tax section for more information on filing taxes.
+Getting paid, on time, is mostly a matter of doing three pieces of setup early.
 
 !!! danger "The September-to-November gap"
     Your first fall paycheck arrives **November 1**, but you arrive in
     September. You need to cover roughly six weeks of rent, deposits, and
     living costs before any money appears. This is the single most common
     financial surprise for first-years.
-
-## Payroll
-
-Getting paid, on time, is mostly a matter of doing three pieces of setup early.
 
 ### Direct deposit — enroll in all three
 

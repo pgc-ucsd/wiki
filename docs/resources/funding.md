@@ -3,31 +3,50 @@
 Where the money comes from, what you owe, and what employment covers.
 
 !!! warning "Dollar figures go stale fast"
-    The amounts on this page come from the department's **2025–26** orientation
-    handbook and are recorded to give you a sense of scale. Fees and tuition
-    are reset annually — confirm current figures with the
-    [Registrar](https://students.ucsd.edu/finances/fees/) or the Grad Financial
-    Support Coordinator before relying on them.
+    Fees and tuition are reset annually — confirm current figures with the [Registrar](https://students.ucsd.edu/finances/fees/) or the Grad Financial Support Coordinator before relying on them. In addition, each negotiation period between UAW and the University of California typically results in an increase in pay, which increases incrementally year-to-year.
 
-## Assistantships
+## Your job
 
 Graduate students in good academic standing, enrolled full-time (12+ units),
 may be employed as **Teaching Assistants** or **Graduate Student Researchers**
-up to **50% time — 20 hours per week** — during the academic year.
+up to **50% time — 20 hours per week** — during the academic year, as you are considered half-employee, half-student. Employment down to 25% still retains the benefits of employment, such as insurance, but most students are employed at 50%.
 
 New students admitted with financial support are usually appointed as **TAs for
 one academic year**, from the start of fall quarter in September to the end of
-spring quarter in June.
+spring quarter in June. As of 2026, the department nor the school guarantees funding via TAships for a fixed period of time (formerly 6 years as set by the university and 5 as set by the department). Given this, **it is highly recommended to request funding from your advisor to support you while you are a student here**.
 
 After the first year, students are encouraged to affiliate with a research
 group and be supported as a **GSR**. Ask the faculty member you want to work
 with **well in advance** — spring quarter for the following year. GSR funding
 comes from federal contracts and grants, so it depends on funds being available
-that year. Some TA positions remain open to advanced students.
+that year. Some TA positions remain open to advanced students. Fellowship recipients may also hold part-time TA or GSR appointments.
 
-Fellowship recipients may also hold part-time TA or GSR appointments.
+As of the most recent negotiations between UAW and the University of California in 2025, these are the wage steps for both TAs and GSRs before tax for the 2026-2027 academic year.
 
-See [Teaching](../teaching/index.md) and [Research](../research/index.md).
+### Teaching Assistant (TA)
+*Step placement is based on teaching experience. All incoming students start at Step 1. When you attain three quarters of experience you move to Step 2, after six Step 3.*
+
+| Step | Monthly Rate (100% FTE) | Monthly Take-Home (Standard 50% FTE) |
+| :--- | :--- | :--- |
+| **Step 1** | $8,200 | **$4,100** |
+| **Step 2** | $8,486 | **$4,243** |
+| **Step 3** | $8,740 | **$4,370** |
+
+### Graduate Student Researcher (GSR)
+*Step placement is determined pre/post-advancement. Physics sits at steps 3 and 4.*
+
+| Step | Monthly Rate (100% FTE) | Monthly Take-Home (Standard 50% FTE) |
+| :--- | :--- | :--- |
+| **Step 1** | $6,348 | **$3,174** |
+| **Step 2** | $6,714 | **$3,357** |
+| **Step 3** | $7,226 | **$3,613** |
+| **Step 4** | $7,776 | **$3,888** |
+| **Step 5** | $8,370 | **$4,185** |
+| **Step 6** | $8,960 | **$4,480** |
+
+Federal and state tax, as well as FICA deducts between 15-25% from this number. See the later tax section for more information on filing taxes.
+
+See [Teaching](../teaching/index.md) and [Research](../research/index.md) for specific info about what's expected in these roles.
 
 ## What employment covers
 
