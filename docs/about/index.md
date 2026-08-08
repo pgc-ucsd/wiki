@@ -13,17 +13,54 @@ PGC also organizes social gatherings to build community amongst the grad student
 
 ## PGC officers
 
-One row per role. Someone holding several roles, or the same role across
-separate stints, gets a row for each.
+One row per role. Someone holding several roles gets a row for each, with their
+name merged across them.
 
-| Person | Role | Tenure |
-| --- | --- | --- |
-| Robin Glefke | Co-President | 2022-2024 |
-| Jayke Nguyen | Co-President | 2022-2023 |
-| Matthew Chu | President | 2024-2026 |
-| Matthew Chu | 2022 Rep | 2022-Present |
-| Jake McCool | Co-President | 2026-Present |
-| Luc Nguyen | Co-President | 2026-Present |
+<!-- This is written as raw HTML, not a Markdown table, because Markdown tables
+     cannot merge cells. To give someone an extra role: add a <tr> with just
+     the Role and Tenure cells directly below their existing row, and raise the
+     rowspan on their name cell to match the number of rows. -->
+
+<table>
+  <thead>
+    <tr>
+      <th>Person</th>
+      <th>Role</th>
+      <th>Tenure</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Robin Glefke</td>
+      <td>Co-President</td>
+      <td>2022–2024</td>
+    </tr>
+    <tr>
+      <td>Jayke Nguyen</td>
+      <td>Co-President</td>
+      <td>2022–2023</td>
+    </tr>
+    <tr>
+      <td rowspan="2">Matthew Chu</td>
+      <td>President</td>
+      <td>2024–2026</td>
+    </tr>
+    <tr>
+      <td>2022 Rep</td>
+      <td>2022–Present</td>
+    </tr>
+    <tr>
+      <td>Jake McCool</td>
+      <td>Co-President</td>
+      <td>2026–Present</td>
+    </tr>
+    <tr>
+      <td>Luc Nguyen</td>
+      <td>Co-President</td>
+      <td>2026–Present</td>
+    </tr>
+  </tbody>
+</table>
 
 This Wiki is currently being maintained by Matthew Chu.
 
