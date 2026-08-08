@@ -86,98 +86,102 @@ Following this is a list of personalized testimonials from students who have wor
 
 ## Directory
 
-All 84 faculty are listed, whether or not anyone has reviewed them. A name
+Every faculty member is listed, whether or not anyone has reviewed them. A name
 links to their page once one exists; until then the entry is just a name.
 
-Faculty working across areas can list more than one. Emeritus faculty are
-included for completeness but are not generally taking new students.
+Use the search box and filters to narrow by subfield, theory or experiment,
+joint appointment, or whether a page has reviews yet. Faculty who work across
+several areas, or do both theory and experiment, appear under **all** of them.
+Parentheses in the title mark a joint appointment in another department.
+
+!!! tip "Filters need JavaScript"
+    If they do not appear, the full table below still works — it is an ordinary
+    table, and the filters are only a convenience layer on top.
 
 | Advisor | Title | Research area |
 | --- | --- | --- |
-| Monica Allen | Assistant Professor | |
-| Jessica Arlett | — | |
-| Kam Arnold | Associate Professor | |
-| Daniel Arovas | Professor | |
-| Richard Averitt | Professor | |
-| Gurleen Bal | — | |
-| Julio Barreiro Guerrero | Associate Professor | |
-| James Branson | Professor | |
-| Leonid Butov | Professor | |
-| Joseph Chen | Professor Emeritus | |
-| R Sekhar Chivukula | Distinguished Professor | |
-| Massimiliano Di Ventra | Professor | |
-| Patrick Diamond | Distinguished Professor | |
-| Charles Driscoll | Professor Emeritus | |
-| Javier Duarte | Associate Professor | |
-| Daniel Dubin | Professor | |
-| Olga Dudko | Professor | |
-| Zachary Fisk | Professor Emeritus | |
-| Raphael Flauger | Associate Professor | |
-| Michael Fogler | Professor | |
-| Alex Frano | Assistant Professor | |
-| Donald Fredkin | Professor Emeritus | |
-| George Fuller | Distinguished Professor | |
-| Nigel Goldenfeld | Chancellor's Distinguished Professor of Physics | |
-| John Goodkind | Professor Emeritus | |
-| Daniel Green | Associate Professor | |
-| Kim Griest | Professor Emeritus | |
-| Benjamin Grinstein | Distinguished Professor | |
-| Alexander Groisman | Professor | |
-| Tarun Grover | Assistant Professor | |
-| Jorge Hirsch | Professor | |
-| Michael Holst | Distinguished Professor | |
-| Terence Hwa | Distinguished Professor | |
-| Kenneth Intriligator | Distinguished Professor | |
-| Elizabeth Jenkins | Professor | |
-| Barbara Jones | Professor Emeritus | |
-| Suckjoon Jun | Professor | |
-| [Brian Keating](directory/keating.md) | Professor | Astrophysics & Cosmology |
-| Dusan Keres | Professor | |
-| David Kleinfeld | Distinguished Professor | |
-| Elena Koslover | Assistant Professor | |
-| Julius Kuti | Distinguished Professor | |
-| Aobo Li | — | |
-| Tongyan Lin | Assistant Professor | |
-| Lee Lindblom | Research Scientist | |
-| Aneesh Manohar | Distinguished Professor | |
-| M Maple | Distinguished Professor | |
-| Carl Mc Ilwain | Research Professor | |
-| John Mcgreevy | Professor | |
-| Andrew Meyertholen | Associate Teaching Professor | |
-| Thomas Murphy | Professor | |
-| Xuong Nguyen-Huu | Professor Emeritus | |
-| Kaixuan Ni | Professor | |
-| Thomas O'neil | Professor Emeritus | |
-| Seungeun Oh | — | |
-| Melvin Okamura | Professor Emeritus | |
-| Jose Onuchic | Professor Emeritus | |
-| Daniel Parker | — | |
-| Laurence Peterson | Professor Emeritus | |
-| Tenio Popmintchev | Assistant Professor | |
-| Wouter Rappel | Distinguished Research Scientist | |
-| Marcelo Rozenberg | — | |
-| Ivan Schuller | Distinguished Professor | |
-| Mattia Serra | Assistant Professor | |
-| Lu Sham | Professor Emeritus | |
-| Vivek Sharma | Distinguished Professor | |
-| Tatyanna Sharpee | Adjunct Professor | |
-| Brian Shotwell | Assistant Teaching Professor | |
-| Oleg Shpyrko | Department Chair | |
-| Elizabeth Simmons | Distinguished Professor | |
-| Sunil Sinha | Professor Emeritus | |
-| Douglas Smith | Professor | |
-| Robert Swanson | Professor Emeritus | |
-| Tzer Han Tan | — | |
-| Philbert Tsai | Associate Teaching Professor | |
-| Massimo Vergassola | Adjunct Professor | |
-| David Wong | Professor Emeritus | |
-| Shelley Wright | Associate Professor | |
-| Congjun Wu | Professor Emeritus | |
-| Frank Wuerthwein | Professor | |
-| Avi Yagil | Distinguished Professor | |
-| Liang Yang | Associate Professor | |
-| Yi-Zhuang You | Assistant Professor | |
-| Hongbo Zhao | Assistant Professor | |
+| Monica Allen | Assistant Professor | Condensed Matter Experiment |
+| Jessica Arlett | Assistant Teaching Professor | Teaching Professor |
+| Kam Arnold | Associate Professor | Astrophysics Experiment |
+| Daniel Arovas | Professor | Condensed Matter Theory |
+| Richard Averitt | Professor | Condensed Matter Experiment |
+| Gurleen Bal | Assistant Teaching Professor | Teaching Professor |
+| Julio Barreiro Guerrero | Associate Professor | Condensed Matter Experiment |
+| James Branson | Professor | High Energy Experiment |
+| Leonid Butov | Professor | Condensed Matter Experiment |
+| Joseph Chen | Professor Emeritus | AMO Theory |
+| R. Sekhar Chivukula | Distinguished Professor | High Energy Theory |
+| Massimiliano Di Ventra | Professor | Condensed Matter Theory |
+| Patrick Diamond | Distinguished Professor (A&A) | Plasma Theory |
+| Charles Driscoll | Professor Emeritus | Plasma Experiment |
+| Javier Duarte | Associate Professor | High Energy Experiment |
+| Daniel Dubin | Professor | Plasma Theory |
+| Olga Dudko | Professor | Biophysics Theory |
+| Zachary Fisk | Professor Emeritus | Condensed Matter Experiment |
+| Raphael Flauger | Associate Professor | High Energy / Astrophysics Theory |
+| Michael Fogler | Professor | Condensed Matter Theory |
+| Alex Frano | Associate Professor | Condensed Matter Experiment |
+| Donald Fredkin | Professor Emeritus | Condensed Matter / Biophysics Theory |
+| George Fuller | Distinguished Professor | Astrophysics Theory |
+| Nigel Goldenfeld | Chancellor's Distinguished Professor of Physics | Condensed Matter / Biophysics Theory |
+| John Goodkind | Professor Emeritus | Condensed Matter Experiment |
+| Daniel Green | Associate Professor | High Energy / Astrophysics Theory |
+| Kim Griest | Professor Emeritus | High Energy / Astrophysics Theory / Experiment |
+| Benjamin Grinstein | Distinguished Professor | High Energy Theory |
+| Alexander Groisman | Professor | Condensed Matter / Biophysics Experiment |
+| Tarun Grover | Associate Professor | Condensed Matter Theory |
+| Jorge Hirsch | Professor | Condensed Matter Theory |
+| Michael Holst | Distinguished Professor | Applied Mathematics Theory |
+| Terence Hwa | Distinguished Professor | Biophysics Experiment |
+| Kenneth Intriligator | Distinguished Professor | High Energy Theory |
+| Elizabeth Jenkins | Professor | High Energy Theory |
+| Barbara Jones | Professor Emeritus | Astrophysics Experiment |
+| Suckjoon Jun | Professor | Biophysics Experiment |
+| [Brian Keating](directory/keating.md) | Professor | Astrophysics Experiment |
+| Dusan Keres | Professor | Astrophysics Experiment |
+| David Kleinfeld | Distinguished Professor | Biophysics Experiment |
+| Elena Koslover | Associate Professor | Biophysics Theory |
+| Julius Kuti | Professor Emeritus | High Energy Theory |
+| Aobo Li | Assistant Professor (HDSI) | High Energy / Astrophysics Experiment |
+| Tongyan Lin | Associate Professor | High Energy / Astrophysics Theory |
+| Aneesh Manohar | Professor Emeritus | High Energy Theory |
+| Brian Maple | Distinguished Professor | Condensed Matter Experiment |
+| Carl McIlwain | Professor Emeritus | Plasma / Astrophysics Experiment |
+| John McGreevy | Professor | High Energy / Condensed Matter Theory |
+| Andrew Meyertholen | Associate Teaching Professor | Teaching Professor |
+| Thomas Murphy | Professor Emeritus | Astrophysics Experiment |
+| Kaixuan Ni | Professor | High Energy Experiment |
+| Thomas O'Neil | Professor Emeritus | Plasma Theory |
+| Seungeun Oh | Assistant Professor | Biophysics Experiment |
+| Melvin Okamura | Professor Emeritus | Biophysics Experiment |
+| Jose Onuchic | Professor Emeritus | Biophysics Theory |
+| Daniel Parker | Assistant Professor | Condensed Matter Theory |
+| Laurence Peterson | Professor Emeritus | Astrophysics Experiment |
+| Tenio Popmintchev | Assistant Professor | AMO Experiment |
+| Wouter Rappel | Distinguished Research Scientist | Biophysics Experiment |
+| Marcelo Rozenberg | Adjunct Professor | Condensed Matter Theory |
+| Ivan Schuller | Distinguished Professor | Condensed Matter Experiment |
+| Mattia Serra | Associate Professor | Biophysics Theory |
+| Lu Sham | Professor Emeritus | Condensed Matter Theory |
+| Vivek Sharma | Distinguished Professor | High Energy Experiment |
+| Tatyanna Sharpee | Adjunct Professor | Biophysics Theory |
+| Brian Shotwell | Associate Teaching Professor | Teaching Professor |
+| Oleg Shpyrko | Professor / Department Chair | Condensed Matter Experiment |
+| Elizabeth Simmons | Distinguished Professor / Executive Vice Chancellor | High Energy Theory |
+| Sunil Sinha | Professor Emeritus | Condensed Matter Experiment |
+| Douglas Smith | Professor | Biophysics Experiment |
+| Robert Swanson | Professor Emeritus | High Energy Experiment |
+| Tzer Han Tan | Assistant Professor | Biophysics Experiment |
+| Philbert Tsai | Associate Teaching Professor | Teaching Professor |
+| Massimo Vergassola | Professor | Biophysics Experiment |
+| David Wong | Professor Emeritus | High Energy Theory |
+| Shelley Wright | Professor (A&A) | Astrophysics Experiment |
+| Congjun Wu | Professor Emeritus | Condensed Matter Experiment |
+| Frank Wuerthwein | Professor (HDSI) | High Energy Experiment |
+| Avi Yagil | Distinguished Professor | High Energy Experiment |
+| Liang Yang | Professor | High Energy Experiment |
+| Yi-Zhuang You | Associate Professor | Condensed Matter Theory |
+| Hongbo Zhao | Assistant Professor | Biophysics / Condensed Matter Theory |
 
 ## Related
 

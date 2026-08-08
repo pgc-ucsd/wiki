@@ -39,6 +39,11 @@ theme:
 extra_css:
   - stylesheets/extra.css
 
+extra_javascript:
+  # Adds search + filters to the advisor directory table. The table stays
+  # ordinary Markdown; this enhances it in the browser. See the file header.
+  - javascripts/advisor-filter.js
+
 # Individual advisor pages are intentionally kept out of the sidebar — there
 # will eventually be dozens, and they would swamp one dropdown. They are still
 # built, linked from the directory table, and indexed by search. This suppresses

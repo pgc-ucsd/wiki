@@ -14,6 +14,101 @@
   font-size: 0.85rem;
 }
 
+/* ---- Advisor directory filter ------------------------------------------
+   Styles for the controls injected by javascripts/advisor-filter.js. All
+   colours come from Material's own variables so this follows the theme
+   toggle. */
+.adv-filter {
+  display: flex;
+  flex-direction: column;
+  gap: .5rem;
+  margin: 1em 0 .6em;
+}
+.adv-search {
+  width: 100%;
+  padding: .45rem .6rem;
+  font-size: .72rem;
+  font-family: inherit;
+  color: var(--md-default-fg-color);
+  background: var(--md-default-bg-color);
+  border: .05rem solid var(--md-default-fg-color--lighter);
+  border-radius: .2rem;
+}
+.adv-search:focus {
+  outline: none;
+  border-color: var(--md-accent-fg-color);
+}
+.adv-group {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: .3rem;
+}
+.adv-group__label {
+  font-size: .62rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: .04em;
+  color: var(--md-default-fg-color--light);
+  min-width: 7.2em;
+}
+.adv-chip {
+  font: inherit;
+  font-size: .66rem;
+  line-height: 1.4;
+  padding: .16rem .5rem;
+  cursor: pointer;
+  color: var(--md-default-fg-color--light);
+  background: var(--md-default-fg-color--lightest);
+  border: .05rem solid transparent;
+  border-radius: 1rem;
+  transition: background .15s, color .15s;
+}
+.adv-chip:hover { border-color: var(--md-accent-fg-color); }
+.adv-chip[aria-pressed="true"] {
+  color: var(--md-primary-bg-color);
+  background: var(--md-primary-fg-color);
+}
+.adv-meta {
+  display: flex;
+  align-items: center;
+  gap: .6rem;
+  margin: 0 0 .4rem;
+}
+.adv-status {
+  margin: 0 !important;
+  font-size: .66rem;
+  color: var(--md-default-fg-color--light);
+}
+.adv-reset {
+  font: inherit;
+  font-size: .66rem;
+  padding: 0;
+  cursor: pointer;
+  color: var(--md-accent-fg-color);
+  background: none;
+  border: none;
+  text-decoration: underline;
+}
+/* Fixed-height scroll area with a pinned header, so an 80-row table does not
+   push the rest of the page off screen. */
+.adv-scroll {
+  max-height: 26rem;
+  overflow: auto;
+  border: .05rem solid var(--md-default-fg-color--lightest);
+  border-radius: .2rem;
+}
+.adv-scroll > table {
+  margin: 0 !important;
+  width: 100%;
+  box-shadow: none !important;
+}
+.adv-scroll thead th {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+
 /* Text colors.
    Usage:  <span class="red">text</span>
            *text*{ .red }
