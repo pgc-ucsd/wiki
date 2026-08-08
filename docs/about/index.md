@@ -13,11 +13,15 @@ PGC also organizes social gatherings to build community amongst the grad student
 
 ## PGC officers
 
+One row per role. Someone holding several roles, or the same role across
+separate stints, gets a row for each.
+
 | Person | Role | Tenure |
 | --- | --- | --- |
 | Robin Glefke | Co-President | 2022-2024 |
 | Jayke Nguyen | Co-President | 2022-2023 |
 | Matthew Chu | President | 2024-2026 |
+| Matthew Chu | 2022 Rep | 2022-Present |
 | Jake McCool | Co-President | 2026-Present |
 | Luc Nguyen | Co-President | 2026-Present |
 
