@@ -42,7 +42,7 @@ theme:
 # either file.** MkDocs still copies the files normally; the suffix only lands
 # in the generated <link>/<script> tag.
 extra_css:
-  - stylesheets/extra.css?v=1
+  - stylesheets/extra.css?v=2
 
 extra_javascript:
   # Adds search + filters to the advisor directory table. The table stays
